@@ -10,7 +10,7 @@
 [![CUDA](https://img.shields.io/badge/CUDA-11.8%2B-76B900.svg)](https://developer.nvidia.com/cuda-toolkit)
 
 <h3>
-<a href="https://arxiv.org/abs/2502.xxxxx">📄 Paper</a> |
+<a href="https://arxiv.org/abs/2602.21198">📄 Paper</a> |
 <a href="https://reflective-test-time-planning.github.io/">🌐 Project Page</a> |
 <a href="#-citation">📖 Citation</a>
 </h3>
@@ -182,7 +182,7 @@ If you find this work useful, please cite:
 @article{hong2026reflective,
   title={Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs},
   author={Hong, Yining and Huang, Huang and Li, Manling and Fei-Fei, Li and Wu, Jiajun and Choi, Yejin},
-  journal={arXiv preprint arXiv:2502.xxxxx},
+  journal={arXiv preprint arXiv:2602.21198},
   year={2026}
 }
 ```
