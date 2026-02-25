@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cupboard"
+version = "0.1.0"
+description = "Cupboard Experiment for reflective test-time planning."
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    # roboworld
+    "mujoco==3.3.4", "gym==0.26.2", "matplotlib", "scipy",
+    "imageio==2.37.0", "imageio-ffmpeg==0.6.0", "moviepy==1.0.3", 
+    "mujoco-python-viewer",
+]
+
+[tool.setuptools.packages.find]
+include = ["roboworld*"]
+
+[tool.wheel]
+include = ["roboworld*"]

@@ -1,0 +1,37 @@
+<mujoco model="panda scene">
+
+  <include file="panda.xml"/>
+
+  <statistic center="0.3 0 0.4" extent="1"/>
+
+  <visual>
+    <headlight diffuse="0.6 0.6 0.6" ambient="0.3 0.3 0.3" specular="0 0 0"/>
+    <rgba haze="0.15 0.25 0.35 1"/>
+    <global azimuth="120" elevation="-20"/>
+  </visual>
+
+  <asset>
+    <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="3072"/>
+    <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="0.55 0.65 0.75" rgb2="0.6 0.7 0.8"
+      markrgb="0.8 0.8 0.8" width="300" height="300"/>
+    <texture name="wood" file="../textures/wood_square.png" type="cube"/>
+    <texture name="marble" file="../textures/marble.png" type="cube"/>
+    <material shininess=".0" name="wood" texture="wood" specular="0.0"/>
+    <material shininess="0.9" name="marble" texture="marble" specular="0.9" reflectance="0.2"/>
+    <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="2 2" reflectance="0.05"/>
+  </asset>
+
+  <worldbody>
+    <light pos="0 0 1.5" dir="0 0 -1" directional="true"/>
+    <geom name="floor" size="0 0 0.05" type="plane" material="groundplane"/>
+    <geom name="table" size="0.95 0.75 0.03" type="box" pos="0.4 0 0.4" material="wood"/>
+    <geom name="table2" size="0.9 0.7 0.2" type="box" pos="0.4125 0 0.2" material="marble"/>
+
+    <body name="peg_hex" pos="0.5 0. 1.0">
+      <freejoint/>
+      <include file="assets/assembly_peg.xml"/>
+    </body>
+
+  </worldbody>
+
+</mujoco>

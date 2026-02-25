@@ -1,0 +1,74 @@
+<mujoco model="main panda scene">
+
+  <compiler angle="radian" meshdir="." autolimits="true"/>
+
+  <include file="franka/panda.xml"/>
+<!--  <include file="objects/base/base_large/base_large.xml" />-->
+  <include file="objects/teaser_board/teaser_board_2_1/teaser_board_2_1.xml" />
+  <include file="objects/teaser_board/teaser_board_2_2/teaser_board_2_2.xml" />
+  <include file="objects/teaser_board/teaser_board_2_2/teaser_board_2_3.xml" />
+  <include file="objects/teaser_board/teaser_board_2_4/teaser_board_2_4.xml" />
+  <include file="objects/teaser_board/teaser_board_2_5/teaser_board_2_5.xml" />
+  <include file="objects/teaser_board/teaser_board_2_6/teaser_board_2_6.xml" />
+  <include file="objects/teaser_board/teaser_board_2_6/teaser_board_2_7.xml" />
+
+<!--  <include file="objects/fixture/fixture/fixture.xml" />-->
+
+  <statistic center="0.3 0 0.4" extent="1"/>
+
+  <visual>
+    <headlight diffuse="0.6 0.6 0.6" ambient="0.15 0.15 0.15" specular="0 0 0"/>
+    <rgba haze="0.15 0.25 0.35 1"/>
+    <global azimuth="120" elevation="-20"/>
+    <quality shadowsize="4096"/>
+  </visual>
+
+  <asset>
+    <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="3072"/>
+    <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="0.55 0.65 0.75" rgb2="0.6 0.7 0.8"
+      markrgb="0.8 0.8 0.8" width="300" height="300"/>
+    <texture name="wood" file="textures/wood_square.png" type="cube"/>
+    <texture name="marble" file="textures/marble.png" type="cube"/>
+    <material shininess=".0" name="wood" texture="wood" specular="0.0"/>
+    <material shininess="0.9" name="marble" texture="marble" specular="0.9" reflectance="0.2"/>
+    <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="2 2" reflectance="0.05"/>
+
+    <mesh name="peg_hexagon" file="objects/peg/hexagon_large_short.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="peg_rectangle" file="objects/peg/rectangle_large_short.stl" scale="0.001 0.001 0.001"/>
+    <mesh name="tablebody" file="objects/table/tablebody.stl"/>
+    <mesh name="base" file="objects/base/base_large.obj"/>
+  </asset>
+
+  <worldbody>
+    <light pos="1 -1 2" dir="-1 1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="true"/>
+    <light pos="-1 -1 2" dir="1 1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+    <light pos="1 1 2" dir="-1 -1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+    <light pos="-1 1 2" dir="1 -1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+<!--    <light pos="0 0 2" dir="0 0 -1" directional="true" diffuse=".6 .6 .6" ambient="0.1 0.1 0.1" specular="0 0 0" exponent="100" castshadow="true"/>-->
+<!--    <light diffuse=".2 .2 .2" dir="0 0 -1" directional="false" pos="10 10 40.0" specular="0.3 0.3 0.3" castshadow="false"/>-->
+<!--    <light diffuse=".2 .2 .2" dir="0 -.15 -1" directional="false" pos="-30. -30. 40.0" specular="0.3 0.3 0.3" castshadow="false"/>-->
+<!--    <light pos="0 0 50" dir="0 0 -1" directional="false"/>-->
+<!--    <light pos="0 -5 10.5" dir="0 0 -1" directional="false"/>-->
+    <geom name="floor" size="0 0 0.05" type="plane" material="groundplane"/>
+    <body name="table" pos="0 0 0">
+      <geom name="table" size="0.95 0.75 0.03" type="box" pos="0 0 0.47" material="wood" class="visual"/>
+      <geom name="table_c" size="0.95 0.75 0.03" type="box" pos="0 0 0.47" class="collision" friction="1 0.005 0.0001"/>
+      <geom name="table2" size="0.9 0.7 0.22" type="box" pos="0 0 0.22" material="marble" class="visual"/>
+    </body>
+
+    <camera name="table" pos="0 -1.05 1.7" euler="0.6 0 0"/>
+    <camera name="table_close" pos="0 -0.45 1.3" euler="0.4 0 0"/>
+  </worldbody>
+
+  <equality>
+<!--    <weld name="teaser_board_2_2_grasp_hand" body1="teaser_board_2_2" body2="hand" anchor="0. 0. 0."-->
+<!--          relpose="0. 0. 0. 0. 0.7071415 0.70707206 0." solimp="0.9 0.95 0.001" solref="0.02 1" active="false"/>-->
+        <weld name="teaser_board_2_2_grasp_hand" body1="teaser_board_2_2" body2="hand" active="false"/>
+        <weld name="teaser_board_2_3_grasp_hand" body1="teaser_board_2_3" body2="hand" active="false"/>
+        <weld name="teaser_board_2_4_grasp_hand" body1="teaser_board_2_4" body2="hand" active="false"/>
+        <weld name="teaser_board_2_5_grasp_hand" body1="teaser_board_2_5" body2="hand" active="false"/>
+        <weld name="teaser_board_2_6_grasp_hand" body1="teaser_board_2_6" body2="hand" active="false"/>
+        <weld name="teaser_board_2_7_grasp_hand" body1="teaser_board_2_7" body2="hand" active="false"/>
+  </equality>
+
+</mujoco>

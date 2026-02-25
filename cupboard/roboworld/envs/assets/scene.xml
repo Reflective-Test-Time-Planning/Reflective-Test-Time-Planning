@@ -1,0 +1,49 @@
+<mujoco model="scene">
+
+  <statistic center="0.3 0 0.4" extent="1"/>
+
+  <visual>
+    <headlight diffuse="0.6 0.6 0.6" ambient="0.15 0.15 0.15" specular="0 0 0"/>
+    <rgba haze="0.15 0.25 0.35 1"/>
+    <global azimuth="120" elevation="-20"/>
+    <quality shadowsize="4096"/>
+  </visual>
+
+  <asset>
+    <texture type="skybox" builtin="gradient" rgb1="0.3 0.5 0.7" rgb2="0 0 0" width="512" height="3072"/>
+    <texture type="2d" name="groundplane" builtin="checker" mark="edge" rgb1="0.55 0.65 0.75" rgb2="0.6 0.7 0.8"
+      markrgb="0.8 0.8 0.8" width="300" height="300"/>
+    <texture name="wood" file="textures/wood_square.png" type="cube"/>
+    <texture name="marble" file="textures/marble.png" type="cube"/>
+    <material shininess=".0" name="wood" texture="wood" specular="0.0"/>
+    <material shininess="0.9" name="marble" texture="marble" specular="0.9" reflectance="0.2"/>
+    <material name="groundplane" texture="groundplane" texuniform="true" texrepeat="2 2" reflectance="0.05"/>
+  </asset>
+
+<!--    <include file="objects/fixture/fixture/fixture.xml" />-->
+    <include file="objects/fixture/fixture2/fixture2.xml" />
+
+  <worldbody>
+    <light pos="1 -1 2" dir="-1 1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="true"/>
+    <light pos="-1 -1 2" dir="1 1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+    <light pos="1 1 2" dir="-1 -1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+    <light pos="-1 1 2" dir="1 -1 -2" directional="true" diffuse=".2 .2 .2" ambient="0.05 0.05 0.05" castshadow="false"/>
+    <geom name="floor" size="0 0 0.05" type="plane" material="groundplane"/>
+    <body name="table" pos="0 0 0">
+      <geom name="table" size="0.95 0.75 0.03" type="box" pos="0 0 0.47" material="wood" class="visual"/>
+      <geom name="table_c" size="0.95 0.75 0.03" type="box" pos="0 0 0.47" class="collision" friction="1 0.005 0.0001"/>
+      <geom name="table2" size="0.9 0.7 0.22" type="box" pos="0 0 0.22" material="marble" class="visual"/>
+    </body>
+
+    <camera name="table" pos="0 -1.05 1.7" euler="0.6 0 0"/>
+    <camera name="table_close" pos="0 -0.45 1.3" euler="0.4 0 0"/>
+    <camera name="table_close_v2" pos="0 -0.8 1.4" euler="0.6 0 0"/>
+    <camera name="table_close_right" pos="0.8 -0.8 1.4" euler="0.8860771 0.6590581 0.4636476"/>
+    <camera name="table_back" pos="0 1.1 1.4" euler="-0.9 0 3.14"/>
+    <camera name="table_side" pos="1 0 1.4" euler="0 0.8 1.5708"/>
+    <camera name="top_down" pos="0 0 1.65" euler="0 3.14 0"/>
+  </worldbody>
+  <equality>
+    <weld name="table_board" body1="table" body2="brick_1" relpose="-0.2 -0.5 0.5 1 0 0 0" solimp="0.95 0.99 .001" active="false"/>
+  </equality>
+</mujoco>

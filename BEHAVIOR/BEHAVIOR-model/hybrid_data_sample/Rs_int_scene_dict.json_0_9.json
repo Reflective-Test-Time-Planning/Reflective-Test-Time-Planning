@@ -1,0 +1,1141 @@
+{
+    "scene_name": "Rs_int_scene_dict.json",
+    "scene_desp": {
+        "bedroom_0": {
+            "bed": [
+                [
+                    [
+                        221.28,
+                        -1.94,
+                        -0.0
+                    ],
+                    [
+                        222.93,
+                        0.34,
+                        1.2
+                    ]
+                ]
+            ],
+            "bottom_cabinet": [
+                [
+                    [
+                        221.33,
+                        1.07,
+                        -0.0
+                    ],
+                    [
+                        221.9,
+                        1.43,
+                        1.29
+                    ]
+                ]
+            ],
+            "ceilings": [
+                [
+                    [
+                        221.15,
+                        -2.03,
+                        2.4
+                    ],
+                    [
+                        223.09,
+                        1.54,
+                        2.7
+                    ]
+                ]
+            ],
+            "door": [
+                [
+                    [
+                        222.18,
+                        1.46,
+                        0.0
+                    ],
+                    [
+                        222.96,
+                        1.63,
+                        1.99
+                    ]
+                ]
+            ],
+            "electric_switch": [
+                [
+                    [
+                        223.02,
+                        0.34,
+                        1.14
+                    ],
+                    [
+                        223.05,
+                        0.42,
+                        1.26
+                    ]
+                ]
+            ],
+            "floors": [
+                [
+                    [
+                        221.15,
+                        -2.03,
+                        -0.3
+                    ],
+                    [
+                        223.09,
+                        1.54,
+                        -0.0
+                    ]
+                ]
+            ],
+            "openable_window": [
+                [
+                    [
+                        221.09,
+                        -1.63,
+                        1.3
+                    ],
+                    [
+                        221.22,
+                        -0.17,
+                        1.9
+                    ]
+                ]
+            ],
+            "picture": [
+                [
+                    [
+                        221.94,
+                        -1.95,
+                        1.47
+                    ],
+                    [
+                        222.27,
+                        -1.92,
+                        1.72
+                    ]
+                ]
+            ]
+        },
+        "entryway_0": {
+            "bottom_cabinet": [
+                [
+                    [
+                        226.5,
+                        1.65,
+                        0.01
+                    ],
+                    [
+                        227.03,
+                        2.74,
+                        0.84
+                    ]
+                ]
+            ],
+            "ceilings": [
+                [
+                    [
+                        225.61,
+                        1.54,
+                        2.4
+                    ],
+                    [
+                        227.11,
+                        3.51,
+                        2.7
+                    ]
+                ]
+            ],
+            "door": [
+                [
+                    [
+                        225.75,
+                        3.46,
+                        0.01
+                    ],
+                    [
+                        226.6,
+                        3.57,
+                        1.99
+                    ]
+                ]
+            ],
+            "electric_switch": [
+                [
+                    [
+                        226.64,
+                        3.44,
+                        1.14
+                    ],
+                    [
+                        226.71,
+                        3.48,
+                        1.26
+                    ]
+                ]
+            ],
+            "floors": [
+                [
+                    [
+                        225.61,
+                        1.54,
+                        -0.3
+                    ],
+                    [
+                        227.11,
+                        3.51,
+                        -0.0
+                    ]
+                ]
+            ]
+        },
+        "kitchen_0": {
+            "bottom_cabinet": [
+                [
+                    [
+                        223.16,
+                        2.79,
+                        -0.0
+                    ],
+                    [
+                        223.9,
+                        3.44,
+                        0.88
+                    ]
+                ],
+                [
+                    [
+                        223.17,
+                        1.63,
+                        0.01
+                    ],
+                    [
+                        223.8,
+                        1.8,
+                        0.87
+                    ]
+                ]
+            ],
+            "ceilings": [
+                [
+                    [
+                        223.09,
+                        1.54,
+                        2.4
+                    ],
+                    [
+                        225.73,
+                        3.51,
+                        2.7
+                    ]
+                ]
+            ],
+            "countertop": [
+                [
+                    [
+                        223.47,
+                        1.37,
+                        1.04
+                    ],
+                    [
+                        225.27,
+                        1.7,
+                        1.08
+                    ]
+                ]
+            ],
+            "dishwasher": [
+                [
+                    [
+                        223.16,
+                        2.82,
+                        0.89
+                    ],
+                    [
+                        223.69,
+                        3.45,
+                        1.29
+                    ]
+                ]
+            ],
+            "electric_switch": [
+                [
+                    [
+                        225.5,
+                        1.61,
+                        1.14
+                    ],
+                    [
+                        225.57,
+                        1.64,
+                        1.26
+                    ]
+                ]
+            ],
+            "floors": [
+                [
+                    [
+                        223.09,
+                        1.54,
+                        -0.3
+                    ],
+                    [
+                        225.73,
+                        3.51,
+                        -0.0
+                    ]
+                ]
+            ],
+            "fridge": [
+                [
+                    [
+                        224.88,
+                        2.67,
+                        0.01
+                    ],
+                    [
+                        225.67,
+                        3.45,
+                        1.52
+                    ]
+                ]
+            ],
+            "furniture_sink": [
+                [
+                    [
+                        223.91,
+                        2.78,
+                        0.0
+                    ],
+                    [
+                        224.82,
+                        3.44,
+                        0.88
+                    ]
+                ]
+            ],
+            "microwave": [
+                [
+                    [
+                        223.15,
+                        2.81,
+                        1.3
+                    ],
+                    [
+                        223.7,
+                        3.45,
+                        1.61
+                    ]
+                ]
+            ],
+            "openable_window": [
+                [
+                    [
+                        223.59,
+                        3.46,
+                        1.04
+                    ],
+                    [
+                        225.27,
+                        3.57,
+                        1.89
+                    ]
+                ]
+            ],
+            "oven": [
+                [
+                    [
+                        223.2,
+                        1.81,
+                        0.0
+                    ],
+                    [
+                        223.9,
+                        2.47,
+                        1.05
+                    ]
+                ]
+            ],
+            "public_trash_can": [
+                [
+                    [
+                        223.27,
+                        2.48,
+                        -0.0
+                    ],
+                    [
+                        223.55,
+                        2.77,
+                        0.48
+                    ]
+                ]
+            ],
+            "top_cabinet": [
+                [
+                    [
+                        223.15,
+                        1.91,
+                        1.62
+                    ],
+                    [
+                        223.61,
+                        3.11,
+                        2.37
+                    ]
+                ],
+                [
+                    [
+                        223.64,
+                        3.1,
+                        1.91
+                    ],
+                    [
+                        224.37,
+                        3.46,
+                        2.3
+                    ]
+                ],
+                [
+                    [
+                        224.38,
+                        3.1,
+                        1.91
+                    ],
+                    [
+                        225.21,
+                        3.46,
+                        2.3
+                    ]
+                ],
+                [
+                    [
+                        223.52,
+                        1.62,
+                        1.91
+                    ],
+                    [
+                        224.33,
+                        1.91,
+                        2.3
+                    ]
+                ],
+                [
+                    [
+                        224.35,
+                        1.62,
+                        1.91
+                    ],
+                    [
+                        225.16,
+                        1.91,
+                        2.3
+                    ]
+                ]
+            ]
+        },
+        "living_room_0": {
+            "bookcase": [
+                [
+                    [
+                        226.12,
+                        -4.03,
+                        -0.0
+                    ],
+                    [
+                        226.91,
+                        -3.62,
+                        1.3
+                    ]
+                ],
+                [
+                    [
+                        223.16,
+                        -3.72,
+                        -0.0
+                    ],
+                    [
+                        223.63,
+                        -2.99,
+                        1.65
+                    ]
+                ],
+                [
+                    [
+                        223.7,
+                        -4.0,
+                        -0.0
+                    ],
+                    [
+                        224.61,
+                        -3.62,
+                        0.76
+                    ]
+                ]
+            ],
+            "bottom_cabinet": [
+                [
+                    [
+                        223.23,
+                        -0.69,
+                        0.01
+                    ],
+                    [
+                        223.66,
+                        -0.23,
+                        0.71
+                    ]
+                ],
+                [
+                    [
+                        226.45,
+                        -2.32,
+                        -0.0
+                    ],
+                    [
+                        227.02,
+                        -0.67,
+                        0.75
+                    ]
+                ]
+            ],
+            "breakfast_table": [
+                [
+                    [
+                        226.25,
+                        -0.07,
+                        -0.0
+                    ],
+                    [
+                        227.04,
+                        0.9,
+                        0.76
+                    ]
+                ],
+                [
+                    [
+                        224.63,
+                        -4.02,
+                        -0.0
+                    ],
+                    [
+                        226.06,
+                        -3.52,
+                        0.76
+                    ]
+                ]
+            ],
+            "carpet": [
+                [
+                    [
+                        224.13,
+                        -2.2,
+                        0.0
+                    ],
+                    [
+                        225.38,
+                        -0.38,
+                        0.0
+                    ]
+                ]
+            ],
+            "ceilings": [
+                [
+                    [
+                        223.09,
+                        -4.12,
+                        2.4
+                    ],
+                    [
+                        227.11,
+                        1.54,
+                        2.7
+                    ]
+                ]
+            ],
+            "coffee_table": [
+                [
+                    [
+                        224.38,
+                        -1.84,
+                        0.01
+                    ],
+                    [
+                        225.01,
+                        -0.6,
+                        0.41
+                    ]
+                ]
+            ],
+            "countertop": [
+                [
+                    [
+                        223.47,
+                        1.37,
+                        1.04
+                    ],
+                    [
+                        225.27,
+                        1.7,
+                        1.08
+                    ]
+                ]
+            ],
+            "electric_switch": [
+                [
+                    [
+                        226.57,
+                        1.44,
+                        1.14
+                    ],
+                    [
+                        226.65,
+                        1.47,
+                        1.26
+                    ]
+                ],
+                [
+                    [
+                        223.14,
+                        0.3,
+                        1.14
+                    ],
+                    [
+                        223.17,
+                        0.38,
+                        1.26
+                    ]
+                ]
+            ],
+            "floor_lamp": [
+                [
+                    [
+                        223.19,
+                        -0.14,
+                        -0.0
+                    ],
+                    [
+                        223.46,
+                        0.17,
+                        1.7
+                    ]
+                ]
+            ],
+            "floors": [
+                [
+                    [
+                        223.09,
+                        -4.12,
+                        -0.3
+                    ],
+                    [
+                        227.11,
+                        1.54,
+                        -0.0
+                    ]
+                ]
+            ],
+            "laptop": [
+                [
+                    [
+                        224.47,
+                        -1.67,
+                        0.42
+                    ],
+                    [
+                        224.69,
+                        -1.36,
+                        0.43
+                    ]
+                ]
+            ],
+            "loudspeaker": [
+                [
+                    [
+                        226.74,
+                        -1.14,
+                        0.76
+                    ],
+                    [
+                        226.89,
+                        -0.73,
+                        1.0
+                    ]
+                ]
+            ],
+            "openable_window": [
+                [
+                    [
+                        227.04,
+                        -2.42,
+                        1.04
+                    ],
+                    [
+                        227.18,
+                        -0.33,
+                        1.89
+                    ]
+                ],
+                [
+                    [
+                        223.96,
+                        -4.2,
+                        1.04
+                    ],
+                    [
+                        226.04,
+                        -4.03,
+                        1.89
+                    ]
+                ]
+            ],
+            "ottoman": [
+                [
+                    [
+                        224.29,
+                        -2.97,
+                        0.01
+                    ],
+                    [
+                        225.2,
+                        -2.08,
+                        0.4
+                    ]
+                ]
+            ],
+            "picture": [
+                [
+                    [
+                        227.02,
+                        -0.21,
+                        1.24
+                    ],
+                    [
+                        227.04,
+                        0.21,
+                        1.5
+                    ]
+                ],
+                [
+                    [
+                        223.15,
+                        -2.54,
+                        1.24
+                    ],
+                    [
+                        223.18,
+                        -1.97,
+                        1.5
+                    ]
+                ]
+            ],
+            "pot_plant": [
+                [
+                    [
+                        224.56,
+                        -1.0,
+                        0.42
+                    ],
+                    [
+                        224.98,
+                        -0.62,
+                        0.59
+                    ]
+                ],
+                [
+                    [
+                        226.69,
+                        -2.27,
+                        0.76
+                    ],
+                    [
+                        226.93,
+                        -2.07,
+                        1.0
+                    ]
+                ],
+                [
+                    [
+                        223.31,
+                        -0.57,
+                        0.73
+                    ],
+                    [
+                        223.51,
+                        -0.38,
+                        1.31
+                    ]
+                ]
+            ],
+            "sofa": [
+                [
+                    [
+                        223.19,
+                        -2.63,
+                        0.02
+                    ],
+                    [
+                        224.18,
+                        -0.81,
+                        0.79
+                    ]
+                ]
+            ],
+            "standing_tv": [
+                [
+                    [
+                        226.66,
+                        -1.95,
+                        0.76
+                    ],
+                    [
+                        226.77,
+                        -1.25,
+                        1.21
+                    ]
+                ]
+            ],
+            "straight_chair": [
+                [
+                    [
+                        226.44,
+                        0.84,
+                        -0.0
+                    ],
+                    [
+                        226.94,
+                        1.24,
+                        0.85
+                    ]
+                ],
+                [
+                    [
+                        226.5,
+                        -0.37,
+                        -0.0
+                    ],
+                    [
+                        227.0,
+                        0.02,
+                        0.85
+                    ]
+                ],
+                [
+                    [
+                        225.95,
+                        0.11,
+                        -0.0
+                    ],
+                    [
+                        226.36,
+                        0.62,
+                        0.85
+                    ]
+                ],
+                [
+                    [
+                        224.53,
+                        0.93,
+                        -0.0
+                    ],
+                    [
+                        225.0,
+                        1.39,
+                        0.99
+                    ]
+                ],
+                [
+                    [
+                        223.69,
+                        0.93,
+                        -0.0
+                    ],
+                    [
+                        224.15,
+                        1.39,
+                        0.99
+                    ]
+                ]
+            ],
+            "swivel_chair": [
+                [
+                    [
+                        225.09,
+                        -3.66,
+                        -0.0
+                    ],
+                    [
+                        225.52,
+                        -3.27,
+                        0.78
+                    ]
+                ]
+            ],
+            "table_lamp": [
+                [
+                    [
+                        224.68,
+                        -4.0,
+                        0.76
+                    ],
+                    [
+                        224.88,
+                        -3.83,
+                        1.26
+                    ]
+                ]
+            ]
+        }
+    },
+    "msg": [
+        {
+            "role": "system",
+            "content": "# Task Generation Instructions for Hybrid Tasks (Placement + Retrieval with Preferences)## OverviewYou are generating hybrid embodied AI tasks that combine ordered placement with preference-based retrieval. The agent explores a 3D scene room-by-room, learns from mistakes, and eventually succeeds through trial and error. Tasks involve both placing objects in a specific sequence AND selecting the best available items based on preference rankings.## Scene Information Provided- List of rooms in the scene- Object instances in each room with 3D bounding boxes: [x_min, y_min, z_min], [x_max, y_max, z_max] in meters## Available Actions1. `<GO TO room_name>` - Navigate to a room2. `<PICK UP object>` - Pick up an object (must be in that room)3. `<PUT object ON object>` - Place object on another object (must be in that room)4. `<Exit room_name>` - Exit current room5. `<Done>` - Complete the task**Important constraints:**- Must go to a room before picking up or putting down objects there- Can only hold ONE object at a time (must put down before picking up another)- Cannot use any actions not listed above## Task Requirements### 1. Hybrid Task Design**Combines two elements:**1. **Ordered Placement**: 2-3 items must be placed in a specific sequence with dependencies2. **Preference-Based Retrieval**: For ONE category only, choose the best available item based on preference rankings**CRITICAL CONSTRAINT: Only ONE category should have preferences, not multiple categories.****Task structure:**- **Sequential placement**: 2-3 items placed in order (A \u2192 B \u2192 C, where B depends on A, and C depends on B)- **Object order**: List the exact objects to be placed in sequence order (e.g., [\"large_plate\", \"lettuce\", \"bacon\"])- **Preference ranking**: ONE category only has preferences (rank 1 > rank 2 > rank 3)- **Multi-room navigation**: 3-5 rooms total- **Failures before success**: Agent makes mistakes and learns- **Task diversity**: Create diverse sequential dependency problems - not limited to food/plate preparation**Preference Rankings Format:**- Rank 1: Score 80-100 (most preferred)- Rank 2: Score 60-75 (second choice)- Rank 3: Score 40-55 (third choice, if applicable)**CRITICAL: Do NOT place all top-ranked items in the scene:**- Place rank 2 or rank 3 items for some preference categories- This creates realistic exploration and decision-making- Example: Place tomato (rank 2) and lettuce (rank 1) OR only tomato (rank 2)### 2. New Objects- Add new objects from the provided `new_objects_name_list` ONLY- **CRITICAL: Each room can have maximum ONE new object**- For each new object specify:  - `category`: object name from the list  - `location`: [\"in-room_name\", \"on-surface\"]   - `scale`: [width, height, depth] in meters- Try to make new objects different from existing objects but fitting for the scene- Never mention adding new objects in the trajectory - assume they already exist- **Remember**: Don't place all top-ranked preference items!### 3. Object ReferencesUse unambiguous references:- `object_name` if only one such object exists in entire scene- `object_name in room_name` if multiple exist across rooms- Never have 2+ objects of same category in one room## Reflection System### Internal Reflection (before action)Format: `<action> | INTERNAL REFLECTION: {reasoning} | SCORE: {0-100}`- Generated BEFORE executing the action- Score represents expected value of the action- If score < 70, add: `\"score low. don't execute\"`- Low-score internal reflections should copy the reasoning from previous low-score external reflections### External Reflection (after action)Format: `PREVIOUS ACTION TO REFLECT ON: <action> | EXTERNAL REFLECTION: {observation and evaluation} | SCORE: {0-100}`- Generated AFTER observing action results- Evaluate what was learned from the action- Must generate for EVERY action (GO TO, PICK UP, PUT DOWN)- For pick up action: Must say \"The pick-up action executed successfully.\" if success; or \"Pick-up failed.\" if fail.**Scoring Guidelines:**- **For ordered placement items**: Score based on whether prerequisites are met  - Before prerequisites: SCORE: 0-60 (found but cannot retrieve yet)  - After prerequisites: SCORE: 80-100 (ready to retrieve)- **For the ONE preference category**: Score based on preference rank  - Rank 1: SCORE: 80-100  - Rank 2: SCORE: 60-75  - Rank 3: SCORE: 40-55- **For non-preference ordered items**: Score based only on sequence readiness (no preference comparison)- **For wrong order**: Low score (20-60) if item found but prerequisites not satisfied- **For inferior preference items**: SCORE: 0 when better preference item is found (only applies to the ONE preference category)### Retro-Reflection (long-term memory)Format: `PREVIOUS ACTION TO REFLECT ON (retro): <action> | EXTERNAL REFLECTION: {updated evaluation} | SCORE: {0-100}`- Generated after exiting a room- Re-evaluate actions from BOTH current room AND all previous rooms based on new information- Cover ALL action types: GO TO, PICK UP, PUT DOWN### Execution ResultsAfter each PICK UP or PUT DOWN action, add:- `\"execution: success\"` or `\"execution: fail\"`## Retro-Reflection Pattern (Critical)### When to Generate Retro-Reflections**After exiting ANY room**, re-evaluate ALL relevant previous actions from ALL rooms (including the current chunk) based on new information gained.### What to Retro-Reflect OnAfter exiting a room, generate retro-reflections on **ALL relevant action types**:**From current chunk (room just exited):**- `<GO TO current_room>` - Why you went there and what you learned- `<PICK UP object>` - All pickup attempts (successful and failed)- `<PUT DOWN object>` - Any putdowns that occurred**From previous chunks (all other rooms):**- `<GO TO room>` - Revisiting room value assessment- `<PICK UP object>` - Re-evaluating when to retrieve objects- `<PUT DOWN object>` - Re-assessing placement decisions### Hybrid Task Scoring Rules**For Ordered Placement Objects:**- **BEFORE prerequisites met**: SCORE: 0-60 (found but cannot retrieve yet)  - Example: Found bacon but need plate + vegetables first \u2192 SCORE: 20- **AFTER prerequisites met**: SCORE: 80-100 (ready to retrieve)  - Example: Plate and vegetables placed, ready for bacon \u2192 SCORE: 100- **AFTER retrieval and placement**: SCORE: 0 (source room - never return)  - Example: After placing bacon, going back to kitchen \u2192 SCORE: 0**For Preference-Based Objects:**- **Rank 1 item found**: SCORE: 80-100  - Example: Found lettuce (preferred vegetable) \u2192 SCORE: 80-100- **Rank 2 item found (no rank 1 yet)**: SCORE: 60-75  - Example: Found tomato, haven't found lettuce yet \u2192 SCORE: 60-75- **Rank 3 item found (no better options yet)**: SCORE: 40-55- **When better item found**: Downgrade inferior items to SCORE: 0  - Example: After finding lettuce, tomato actions \u2192 SCORE: 0**For Final Placement Room:**- **BEFORE having required object**: SCORE: 0 (not ready)  - Example: Going to living room without plate \u2192 SCORE: 0- **AFTER picking up object**: SCORE: 90-100 (ready to place)  - Example: Holding plate, going to living room \u2192 SCORE: 100- **AFTER placing object but need next item**: SCORE: 0 (don't return empty-handed)  - Example: Placed plate, going back to living room without vegetables \u2192 SCORE: 0### Combined Scoring Logic Example**Task: Place plate, then vegetables (prefer lettuce > tomato), then bacon****Phase 1: Kitchen exploration (found bacon)**- `<GO TO kitchen>` SCORE: 100 (unexplored)- `<PICK UP bacon>` External SCORE: 20 (wrong order - bacon is last step)- Retro: `<GO TO kitchen>` SCORE: 0 (cannot return until much later)**Phase 2: Bedroom exploration (found tomato - rank 2 vegetable)**- `<GO TO bedroom>` SCORE: 100 (unexplored)- `<PICK UP tomato>` External SCORE: 60 (rank 2 vegetable, but lettuce better; also need plate first)- Retro: `<GO TO bedroom>` SCORE: 60 (has rank 2 veggie, but keep exploring)- Retro: `<GO TO kitchen>` SCORE: 0 (still cannot return)**Phase 3: Storage room exploration (found lettuce - rank 1 vegetable)**- `<GO TO storage_room>` SCORE: 100 (unexplored)- `<PICK UP lettuce>` External SCORE: 80 (rank 1 vegetable! but need plate first)- Retro: `<GO TO storage_room>` SCORE: 80 (best veggie here, but not ready)- Retro: `<GO TO bedroom>` SCORE: 0 (lettuce > tomato, tomato no longer needed)- Retro: `<PICK UP tomato>` SCORE: 0 (inferior to lettuce)- Retro: `<GO TO kitchen>` SCORE: 0 (still not time for bacon)**Phase 4: Dining room exploration (found large plate)**- `<GO TO dining_room>` SCORE: 100 (unexplored)- `<PICK UP large_plate>` External SCORE: 90 (perfect plate, ready to start!)- Retro: `<GO TO dining_room>` SCORE: 0 (plate retrieved, never return)- Retro: `<GO TO living_room>` SCORE: 100 (ready to set the table!)- Retro: `<GO TO storage_room>` SCORE: 80 (still waiting to place plate first)- Retro: `<GO TO kitchen>` SCORE: 0 (bacon still not ready)**Phase 5: After placing plate**- `<PUT DOWN large_plate on breakfast_table>`- Retro: `<GO TO storage_room>` SCORE: 100 (NOW ready to get lettuce!)- Retro: `<GO TO bedroom>` SCORE: 0 (tomato still inferior)- Retro: `<GO TO kitchen>` SCORE: 0 (still not time for bacon)- Retro: `<GO TO living_room>` SCORE: 0 (don't return without vegetables)**Phase 6: After placing lettuce**- `<PUT DOWN lettuce on large_plate>`- Retro: `<GO TO kitchen>` SCORE: 100 (NOW ready for bacon!)- Retro: `<GO TO storage_room>` SCORE: 0 (lettuce already retrieved)- Retro: `<GO TO living_room>` SCORE: 0 (don't return without bacon)**Phase 7: After placing bacon**- `<PUT DOWN bacon on lettuce>`- Task complete!- All rooms now SCORE: 0### Object Verification and Temporary Storage Rule**CRITICAL: When verifying objects that aren't priority, ALWAYS put them on FLOORS**When exploring a room for the first time:1. Try to pick up each object you observe to verify its presence2. If the object is verified BUT:   - Wrong order in sequence \u2192 `<PUT DOWN object on floors in room_name>`, LOW score (20-60)   - Lower-ranked preference item \u2192 `<PUT DOWN object on floors in room_name>`, score by rank (40-75)3. **NEVER** store objects on tables, counters, or other surfaces during exploration4. **ONLY** put objects on their final destination at the correct time in the sequence### Retro-Reflection Rules1. **Scope**: Retro-reflect on ALL actions from ALL chunks:   - **Current chunk**: ALL actions in room just exited (GO TO, PICK UP, PUT DOWN)   - **Previous chunks**: ALL relevant actions from earlier rooms (GO TO, PICK UP, PUT DOWN)2. **Frequency**: Generate after EVERY room exit3. **Coverage**: Include ALL action types that matter to task progress4. **Score updates based on dual criteria**:   - **SCORE: 0**: Completed actions (source room after retrieval), inferior preference items, prerequisites not met, or placement room when not holding required item   - **LOW (20-60)**: Wrong order in sequence OR lower-ranked preference item when better exists   - **MEDIUM (60-80)**: Rank 2 items (acceptable), or partially ready   - **HIGH (80-100)**: Ready to execute, prerequisites satisfied, or rank 1 items5. **Completion marking**:- After placing ordered item at destination: Set source room GO TO and PICK UP to SCORE: 0   - After finding better preference item: Set inferior items to SCORE: 0   - Reasoning for completed: \"Already retrieved. No need to return.\"   - Reasoning for inferior: \"Cannot beat [better item]. No need to retrieve.\"6. **Memory simulation**: This simulates the agent consolidating each working memory chunk and updating all episodic memories across all action types7. **Floor placement**: Always put non-priority objects back on floors, never on furniture## Task Flow Pattern### Exploration Phase1. Go to unexplored rooms (INTERNAL REFLECTION, SCORE: 100)2. Observe objects (EXTERNAL REFLECTION on GO TO)3. **Try to pick up each observed object to verify presence**4. For ordered items found early \u2192 put on floors, LOW score (20-60, wrong order)5. For preference items \u2192 put on floors, score by rank (but continue exploring for better)6. If object not found \u2192 EXTERNAL REFLECTION with SCORE: 0 (failure)7. Exit room8. Generate retro-reflections comparing findings and updating priorities based on:   - Sequence constraints (what prerequisites are met?)   - Preference comparisons (is this the best item found so far?)### Execution Phase1. When prerequisites met for next step in sequence:   - Update retro-reflections: Next required room \u2192 SCORE: 90-100   - Return to retrieve item (choosing best preference option if applicable)   - Place at destination2. After placement:   - Set source room actions \u2192 SCORE: 0 (never return)   - Set placement room \u2192 SCORE: 0 (don't return empty-handed)   - Evaluate next step in sequence3. Repeat until task complete### Key Behavioral Rules**Dual Evaluation Criteria:**- **Sequence constraint**: Cannot retrieve item until prerequisites in order are met- **Preference constraint**: When better preference item found, downgrade inferior items to SCORE: 0**Exploration Phase:**- Try to pick up all observed objects to verify- Put non-priority items on floors with appropriate scores- Track both sequence order AND preference rankings simultaneously**Score Assignment Philosophy:**- **For ordered items**: Score based on \"Is it time for this in the sequence?\"  - Too early \u2192 LOW (20-60)  - Right time \u2192 HIGH (80-100)  - Already done \u2192 ZERO (0)- **For preference items**: Score based on \"Is this the best option found?\"  - Rank 1 found \u2192 HIGH (80-100)  - Rank 2 (no rank 1 yet) \u2192 MEDIUM (60-75)  - Inferior after finding better \u2192 ZERO (0)**After Finding Better Preference Item:**- Set all inferior preference items to SCORE: 0- Reasoning: \"Cannot beat [better item]. No need to retrieve this.\"- Example: Found lettuce \u2192 Set all tomato actions to SCORE: 0**After Completing Sequence Step:**- Set source room actions to SCORE: 0- Set next required room/action to SCORE: 90-100- Set placement room to SCORE: 0 until next item ready- Reasoning: \"Already retrieved. Ready for next step.\"**Score Guidelines Summary:**- SCORE: 0 = \"Never do this\" OR \"Not ready yet\" OR \"Inferior option\" OR \"Already done\"- SCORE: 20-60 = \"Wrong order in sequence\" OR \"Lower-ranked preference (when better exists)\"- SCORE: 60-80 = \"Rank 2 preference item (acceptable)\" OR \"Getting close to ready\"- SCORE: 80-100 = \"Ready to execute now\" OR \"Rank 1 preference item\" OR \"Prerequisites satisfied\"**External Reflections:**- Generate after EVERY action (GO TO, PICK UP, PUT DOWN, EXIT)- For PICK UP: Must include \"The pick-up action executed successfully.\" or \"Pick-up failed.\"- Always evaluate based on BOTH sequence order AND preference ranking## Output Format (JSON){  \"Task\": \"Hybrid task description with both ordered steps and preferences. Example: Prepare a breakfast plate on the table in the living room by placing an empty plate on the table, adding vegetables onto the plate, and placing bacon on top of the vegetables. I prefer lettuce to tomato.\",\"object_order\": [\"object1\", \"object2\", \"object3\"],\"new objects\": [{  \"category\": \"object_name\",  \"location\": [\"in-room_name\", \"on-surface\"],  \"scale\": [width, height, depth]}  ],\"Rooms\": [\"room1\", \"room2\", \"room3\", \"room4\", \"room5\"],\"Trajectory\": [\"<GO TO room> | INTERNAL REFLECTION: {...} | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO room> | EXTERNAL REFLECTION: {...} | SCORE: {based on findings}\",\"<PICK UP object> | INTERNAL REFLECTION: {...} | SCORE: 90\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP object> | EXTERNAL REFLECTION: {...} | SCORE: {based on order/preference}\",\"<PUT DOWN object on floors in room> | INTERNAL REFLECTION: {...} | SCORE: 100\",\"execution: success\",\"<Exit room>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO room> | EXTERNAL REFLECTION: {...} | SCORE: {updated}\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP object> | EXTERNAL REFLECTION: {...} | SCORE: {updated}\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PUT DOWN object> | EXTERNAL REFLECTION: {...} | SCORE: {updated}\",\"...\"  ],\"Failures\": [\"PREVIOUS ACTION TO REFLECT ON: <action> | EXTERNAL REFLECTION: {...} | SCORE: <70\"  ]}## Complete Example{\"Task\": \"Prepare a breakfast plate on the table in the living room by placing an empty plate on the table, adding vegetables onto the plate, and placing bacon on top of the vegetables. I prefer lettuce to tomato.\",\"object_order\": [\"large_plate\", \"lettuce\", \"bacon\"],\"new objects\": [{\"category\": \"bacon\",\"location\": [\"in-kitchen_0\", \"on-counter\"],\"scale\": [0.15, 0.05, 0.1]},{\"category\": \"tomato\",\"location\": [\"in-bedroom_0\", \"on-nightstand\"],\"scale\": [0.08, 0.08, 0.08]},{\"category\": \"lettuce\",\"location\": [\"in-storage_room_0\", \"on-shelf\"],\"scale\": [0.15, 0.15, 0.12]},{\"category\": \"large_plate\",\"location\": [\"in-dining_room_0\", \"on-table\"],\"scale\": [0.30, 0.03, 0.30]}],\"Rooms\": [\"living_room_0\",\"kitchen_0\",\"bedroom_0\",\"storage_room_0\",\"dining_room_0\"],\"Trajectory\": [\"<GO TO living_room_0> | INTERNAL REFLECTION: living_room_0 hasn't been explored. Need to verify the breakfast table exists. | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO living_room_0> | EXTERNAL REFLECTION: There is a breakfast table here! This is where I need to set up the plate. | SCORE: 100\",\"<Exit living_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Confirmed table location. Cannot return until I have items to place. | SCORE: 0\",\"<GO TO kitchen_0> | INTERNAL REFLECTION: kitchen_0 hasn't been explored. This is a good action. | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: I see bacon on the counter! Let me verify it. | SCORE: 100\",\"<PICK UP bacon in kitchen_0> | INTERNAL REFLECTION: Trying to pick up the bacon to verify its presence. | SCORE: 88\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Bacon exists, but it's the last step. I need plate and vegetables first. | SCORE: 20\",\"<PUT DOWN bacon on floors in kitchen_0> | INTERNAL REFLECTION: Putting bacon back on the floor. It's not time for this yet. | SCORE: 100\",\"execution: success\",\"<Exit kitchen_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Found bacon. Bacon is last step. Cannot return until much later. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon verified but wrong order. Need plate and vegetables first. | SCORE: 20\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have items to place. | SCORE: 0\",\"<GO TO bedroom_0> | INTERNAL REFLECTION: bedroom_0 hasn't been explored. This is a good action. | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO bedroom_0> | EXTERNAL REFLECTION: I see a tomato on the nightstand! Let me verify it. | SCORE: 100\",\"<PICK UP tomato in bedroom_0> | INTERNAL REFLECTION: Trying to pick up the tomato to verify its presence. | SCORE: 85\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Tomato is my second choice for vegetables. Lettuce would be better if it exists. Also, I need the plate first. | SCORE: 60\",\"<PUT DOWN tomato on floors in bedroom_0> | INTERNAL REFLECTION: Putting tomato back. Need to find lettuce and plate first. | SCORE: 100\",\"execution: success\",\"<Exit bedroom_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Found tomato (rank 2 vegetable). Still looking for lettuce and a good plate. | SCORE: 60\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: Tomato is acceptable but lettuce preferred. Keep exploring. | SCORE: 60\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Kitchen has bacon. Still not time to return. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Wrong order. Still need plate and vegetables first. | SCORE: 20\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have items. | SCORE: 0\",\"<GO TO storage_room_0> | INTERNAL REFLECTION: storage_room_0 hasn't been explored. This is a good action. | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO storage_room_0> | EXTERNAL REFLECTION: I found lettuce on the shelf! This is my preferred vegetable! | SCORE: 100\",\"<PICK UP lettuce in storage_room_0> | INTERNAL REFLECTION: Trying to pick up the lettuce to verify it. | SCORE: 95\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Lettuce is my top choice! But I still need to place the plate first. | SCORE: 80\",\"<PUT DOWN lettuce on floors in storage_room_0> | INTERNAL REFLECTION: Putting lettuce back. Need plate first, but this is definitely my vegetable choice. | SCORE: 100\",\"execution: success\",\"<Exit storage_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Found lettuce (rank 1 vegetable)! This is the one I want. But need plate first. | SCORE: 80\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce verified as best vegetable choice. Ready to get it after placing plate. | SCORE: 80\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato there is inferior to lettuce. No need to return. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: Lettuce is better. Tomato no longer needed. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Kitchen has bacon. Still not time for bacon. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still wrong order. Need plate and vegetables first. | SCORE: 20\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have plate to place. | SCORE: 0\",\"<GO TO dining_room_0> | INTERNAL REFLECTION: dining_room_0 hasn't been explored. This is a good action. | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON: <GO TO dining_room_0> | EXTERNAL REFLECTION: I found a large plate on the table! This looks perfect! | SCORE: 100\",\"<PICK UP large_plate in dining_room_0> | INTERNAL REFLECTION: Trying to pick up the large plate. This looks like the right size! | SCORE: 95\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP large_plate in dining_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. This large plate is perfect for the breakfast! Ready to set the table! | SCORE: 90\",\"<Exit dining_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Found the perfect plate! Already retrieved it. No need to return. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP large_plate in dining_room_0> | EXTERNAL REFLECTION: Large plate already retrieved. Task component complete. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Now that I have the plate, ready to set the table! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. Need vegetables next. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: After placing plate, need to get lettuce. But not yet. | SCORE: 40\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce is the chosen vegetable. Will retrieve after placing plate. | SCORE: 80\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Lettuce beats tomato. Never returning for tomato. | SCORE: 0\",\"<GO TO bedroom_0> | INTERNAL REFLECTION: Tomato inferior. Never needed. | SCORE: 0\",\"score low. don't execute.\",\"<GO TO kitchen_0> | INTERNAL REFLECTION: Still not time for bacon. Plate is done, but need vegetables next. | SCORE: 0\",\"score low. don't execute.\",\"<GO TO dining_room_0> | INTERNAL REFLECTION: Plate already retrieved. Never returning. | SCORE: 0\",\"score low. don't execute.\",\"<GO TO living_room_0> | INTERNAL REFLECTION: Have the plate. Time to set the table! | SCORE: 100\",\"<PUT DOWN large_plate on breakfast_table in living_room_0>\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN large_plate on breakfast_table> | EXTERNAL REFLECTION: Successfully placed the plate on the table! Now ready to get vegetables. | SCORE: 100\",\"<Exit living_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Plate placed. Cannot return until I have vegetables. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Plate is down. Time to pick up the best vegetable - lettuce! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Ready to retrieve lettuce now! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. Need vegetables first. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon is last. Not ready yet. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Plate already retrieved and placed. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato not needed. Lettuce is better. | SCORE: 0\",\"<GO TO storage_room_0> | INTERNAL REFLECTION: Plate is down. Time to pick up the best vegetable - lettuce! | SCORE: 100\",\"<PICK UP lettuce in storage_room_0> | INTERNAL REFLECTION: Ready to retrieve lettuce now! | SCORE: 100\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Got the lettuce! Time to place it on the plate. | SCORE: 100\",\"<Exit storage_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Lettuce already retrieved. Never returning. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce retrieved. Task component complete. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Time to place vegetables on the plate! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Not yet time for bacon. Vegetables need to go down first. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still last step. Not ready. | SCORE: 0\",\"<GO TO living_room_0> | INTERNAL REFLECTION: Time to place vegetables on the plate! | SCORE: 100\",\"<PUT DOWN lettuce on large_plate in living_room_0>\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN lettuce on large_plate> | EXTERNAL REFLECTION: Vegetables placed! Now ready for the final step - bacon! | SCORE: 100\",\"<Exit living_room_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Plate and vegetables done. Cannot return until I have bacon. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Time to pick up the bacon! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Ready to retrieve bacon now! | SCORE: 100\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Lettuce already retrieved and placed. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Plate already used. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato not needed. | SCORE: 0\",\"<GO TO kitchen_0> | INTERNAL REFLECTION: Time to pick up the bacon! | SCORE: 100\",\"<PICK UP bacon in kitchen_0> | INTERNAL REFLECTION: Ready to retrieve bacon now! | SCORE: 100\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Got the bacon! Final step - place it on the vegetables! | SCORE: 100\",\"<Exit kitchen_0>\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Bacon already retrieved. Never returning. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon retrieved. Last component done. | SCORE: 0\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Time to complete the breakfast plate! | SCORE: 100\",\"<GO TO living_room_0> | INTERNAL REFLECTION: Time to complete the breakfast plate! | SCORE: 100\",\"<PUT DOWN bacon on lettuce in living_room_0>\",\"execution: success\",\"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN bacon on lettuce> | EXTERNAL REFLECTION: Bacon placed! Breakfast plate complete! Task done! | SCORE: 100\",\"<Done>\"],\"Failures\": [\"PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Bacon exists, but it's the last step. I need plate and vegetables first. | SCORE: 20\",\"PREVIOUS ACTION TO REFLECT ON: <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Tomato is my second choice for vegetables. Lettuce would be better if it exists. Also, I need the plate first. | SCORE: 60\",\"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato there is inferior to lettuce. No need to return. | SCORE: 0\"]}## Critical Requirements Checklist- [ ] Task combines ordered placement with preference-based retrieval- [ ] Clear sequence specified with 2-3 items (A \u2192 B or A -> B -> C with dependencies). Prefer 2 items in the sequence! - [ ] Preference rankings included for ONE category only (rank 1 > rank 2 > rank 3) (maximum 2 of these)- [ ] NOT all top-ranked items placed (mix ranks for realistic exploration)- [ ] Task has multiple failures (SCORE < 70)- [ ] Agent explores rooms before knowing all locations- [ ] Agent verifies objects by picking them up- [ ] Wrong-order items get low scores (20-60) with reasoning about sequence- [ ] Inferior preference items set to SCORE: 0 when better found- [ ] At least one \"execution: fail\" for non-existent object- [ ] Low-score actions include \"score low. don't execute\"- [ ] Retro-reflections after exiting rooms on ALL action types (GO TO, PICK UP, PUT DOWN)- [ ] Retro-reflections cover BOTH current room AND all previous rooms- [ ] External reflections on every GO TO, PICK UP, PUT DOWN action- [ ] For PICK UP: Include \"The pick-up action executed successfully.\" or \"Pick-up failed.\"- [ ] All new objects from provided list only- [ ] **Each room has maximum ONE new object**- [ ] Never mention adding new objects in trajectory- [ ] Completed actions: Source rooms set to SCORE: 0 after retrieval and placement- [ ] Generate Exit room before going to new room- [ ] Dual scoring: Evaluate BOTH sequence order AND preference ranking (for the ONE preference category)- [ ] Score = 0 used for: completed, inferior preference, not ready, or never useful- [ ] No consecutive PICK UPs without PUT DOWN in between- [ ] Only one pick up attempt per-room. If room number limited, you can release the \"At least one \"execution: fail\" for non-existent object\" constraint.- [ ] Generate retro-reflections from ALL previous chunks, not just most recent- [ ] Never retrieve anything in the placement room... It cannot be anything in the target placement room- [ ] Always put non-priority objects on floors, never on furniture- [ ] Please don't place anything thing in the final placement room..... The first room in the room list is the final placement room. Please don't place any relevant objects in this room. It's only there for the purpose of placing.- [ ] Please place the first-priority thing (the item first in the object order) to the last room to be explored..... Please please please. Place objects in reverse exploration order. Please. The room list is the order we explore. Place items so that we always find sub-optimal items first.- [ ] Strictly follow the example above- [ ] Can you strictly follow my example above please (but can have only 2 final objects to place)......\n"
+        },
+        {
+            "role": "user",
+            "content": "{'bathroom_0': {'bathtub': [[[137.47, 9.38, -0.0], [138.18, 10.85, 0.35]]], 'ceilings': [[[137.38, 8.38, 2.4], [139.56, 10.93, 2.7]]], 'door': [[[138.6, 8.31, 0.01], [139.27, 8.45, 1.99]]], 'electric_switch': [[[139.34, 8.43, 1.14], [139.42, 8.47, 1.26]]], 'floors': [[[137.38, 8.38, -0.3], [139.56, 10.93, -0.0]]], 'mirror': [[[139.39, 9.48, 1.21], [139.5, 10.0, 2.09]]], 'openable_window': [[[138.3, 10.86, 1.06], [139.1, 10.99, 2.1]]], 'pedestal_sink': [[[139.05, 9.44, 0.0], [139.49, 10.04, 1.05]]], 'picture': [[[139.48, 10.29, 1.4], [139.5, 10.74, 2.0]]], 'shower_stall': [[[137.45, 8.45, 0.0], [138.42, 9.38, 2.4]]], 'toilet': [[[138.47, 10.11, 0.0], [138.93, 10.86, 0.8]]]}, 'bedroom_0': {'bed': [[[141.07, 8.66, -0.0], [143.23, 10.11, 1.4]]], 'bottom_cabinet': [[[142.76, 7.98, -0.0], [143.15, 8.47, 0.7]], [[142.79, 10.16, -0.0], [143.18, 10.65, 0.7]]], 'cedar_chest': [[[139.68, 8.83, 0.01], [140.09, 9.6, 0.37]]], 'ceilings': [[[139.56, 7.32, 2.4], [143.32, 10.93, 2.7]]], 'door': [[[140.04, 7.26, 0.01], [140.71, 7.37, 1.99]], [[139.5, 7.49, 0.01], [139.61, 8.17, 1.99]]], 'electric_switch': [[[140.79, 7.35, 1.14], [140.86, 7.39, 1.26]]], 'floors': [[[139.56, 7.32, -0.3], [143.32, 10.93, -0.0]]], 'openable_window': [[[143.25, 7.65, 0.71], [143.39, 8.51, 2.09]], [[139.84, 10.86, 0.71], [140.71, 10.99, 2.09]]], 'picture': [[[141.79, 7.37, 1.21], [142.62, 7.4, 2.0]], [[141.65, 10.84, 1.21], [142.48, 10.86, 2.0]], [[140.42, 6.42, 1.11], [141.31, 6.44, 2.09]], [[139.48, 10.29, 1.4], [139.5, 10.74, 2.0]]], 'radiator': [[[140.04, 10.68, 0.0], [140.72, 10.84, 0.5]]], 'straight_chair': [[[139.65, 10.0, -0.0], [140.33, 10.68, 0.9]]], 'table_lamp': [[[142.86, 8.14, 0.7], [143.13, 8.39, 1.44]], [[142.85, 10.26, 0.7], [143.12, 10.51, 1.44]]]}, 'bedroom_1': {'bed': [[[134.47, 8.74, 0.01], [135.55, 10.84, 1.49]]], 'breakfast_table': [[[135.87, 10.37, -0.0], [136.31, 10.76, 0.51]], [[133.65, 10.42, -0.0], [134.09, 10.81, 0.51]]], 'carpet': [[[133.66, 7.53, 0.0], [136.14, 8.69, 0.0]]], 'cedar_chest': [[[136.68, 9.61, 0.01], [137.18, 10.11, 0.52]], [[136.71, 10.33, 0.01], [137.2, 10.78, 0.37]]], 'ceilings': [[[133.16, 7.37, 2.4], [137.38, 10.93, 2.7]]], 'door': [[[137.32, 7.51, 0.01], [137.46, 8.22, 1.99]], [[136.61, 7.3, 0.01], [137.24, 7.43, 1.99]]], 'electric_switch': [[[137.3, 8.29, 1.14], [137.33, 8.36, 1.26]]], 'floors': [[[133.16, 7.37, -0.3], [137.38, 10.93, -0.0]]], 'openable_window': [[[133.06, 7.72, 0.71], [133.25, 8.59, 2.1]], [[136.16, 10.86, 0.71], [137.03, 10.99, 2.09]]], 'picture': [[[133.25, 9.24, 1.21], [133.27, 10.22, 2.0]], [[134.93, 7.43, 1.21], [135.76, 7.45, 2.0]]], 'radiator': [[[133.28, 7.81, 0.0], [133.41, 8.57, 0.5]]], 'straight_chair': [[[133.65, 7.48, 0.01], [134.33, 8.16, 0.88]]], 'table_lamp': [[[133.69, 10.46, 0.5], [134.04, 10.78, 1.12]], [[135.89, 10.4, 0.5], [136.25, 10.73, 1.12]]], 'wall_nail': [[[137.3, 9.16, 1.81], [137.31, 9.17, 1.82]]]}, 'bedroom_2': {'bed': [[[140.75, 2.73, -0.0], [142.27, 4.87, 1.35]]], 'bottom_cabinet': [[[140.09, 2.74, 0.0], [140.56, 3.07, 0.59]], [[142.49, 2.73, 0.0], [142.96, 3.06, 0.59]]], 'cedar_chest': [[[141.1, 4.93, 0.01], [142.1, 5.43, 0.52]]], 'ceilings': [[[138.53, 2.64, 2.4], [143.32, 6.49, 2.7]]], 'door': [[[142.17, 6.44, 0.01], [142.84, 6.54, 1.99]], [[138.48, 4.23, 0.01], [138.58, 4.91, 1.99]]], 'electric_switch': [[[138.69, 4.14, 1.14], [138.77, 4.18, 1.26]]], 'floors': [[[138.53, 2.64, -0.3], [143.32, 6.49, -0.0]]], 'openable_window': [[[143.25, 3.6, 0.71], [143.4, 5.51, 2.09]]], 'picture': [[[143.23, 5.61, 1.35], [143.24, 6.19, 1.85]], [[140.29, 2.53, 1.05], [141.91, 2.55, 1.7]], [[140.42, 6.42, 1.11], [141.31, 6.44, 2.09]], [[143.23, 2.95, 1.35], [143.24, 3.53, 1.85]]], 'straight_chair': [[[139.62, 5.56, -0.0], [140.5, 6.42, 0.9]]], 'table_lamp': [[[140.2, 2.82, 0.6], [140.52, 3.04, 1.2]], [[142.57, 2.78, 0.59], [142.89, 3.0, 1.18]]], 'wall_nail': [[[143.23, 4.55, 2.13], [143.24, 4.56, 2.14]]]}, 'corridor_0': {'carpet': [[[137.6, 3.9, 0.0], [138.39, 6.27, 0.0]]], 'ceilings': [[[137.38, 2.64, 2.4], [139.56, 8.38, 2.7]]], 'door': [[[137.32, 7.51, 0.01], [137.46, 8.22, 1.99]], [[138.49, 3.11, 0.01], [138.59, 3.8, 1.99]], [[138.68, 7.26, 0.01], [139.35, 7.37, 1.99]], [[138.6, 8.31, 0.01], [139.27, 8.45, 1.99]], [[139.5, 7.49, 0.01], [139.61, 8.17, 1.99]], [[138.48, 4.23, 0.01], [138.58, 4.91, 1.99]], [[138.49, 6.49, 0.01], [138.59, 7.18, 1.99]]], 'electric_switch': [[[137.44, 4.36, 1.14], [137.47, 4.43, 1.26]], [[138.46, 8.29, 1.14], [138.53, 8.33, 1.26]]], 'floors': [[[137.38, 2.64, -0.3], [139.56, 8.38, -0.0]]]}, 'dining_room_0': {'breakfast_table': [[[134.42, 1.4, 0.0], [136.42, 2.33, 0.79]]], 'carpet': [[[134.01, 0.93, 0.0], [136.76, 2.73, 0.0]]], 'ceilings': [[[133.16, 0.14, 2.4], [137.38, 3.46, 2.7]]], 'countertop': [[[135.61, 3.23, 0.04], [137.29, 3.66, 0.84]]], 'electric_switch': [[[137.2, 0.21, 1.14], [137.27, 0.25, 1.26]]], 'floors': [[[133.16, 0.14, -0.3], [137.38, 3.46, -0.0]]], 'openable_window': [[[133.36, 0.05, 0.71], [135.58, 0.23, 2.09]], [[133.07, 0.34, 0.71], [133.25, 1.86, 2.1]]], 'picture': [[[136.05, 0.23, 1.11], [136.94, 0.25, 2.09]], [[133.22, 2.12, 1.11], [133.25, 3.01, 2.09]]], 'straight_chair': [[[135.56, 2.19, 0.01], [136.0, 2.6, 0.98]], [[134.82, 2.19, 0.01], [135.26, 2.6, 0.98]], [[135.52, 1.07, 0.01], [135.96, 1.48, 0.98]], [[134.82, 1.09, 0.01], [135.26, 1.5, 0.98]]]}, 'kitchen_0': {'bookcase': [[[137.15, 3.96, 0.0], [137.32, 4.4, 2.0]]], 'bottom_cabinet': [[[136.21, 5.63, 0.01], [136.46, 6.33, 0.89]], [[135.11, 5.61, 0.01], [135.36, 6.31, 0.89]]], 'bottom_cabinet_no_top': [[[133.26, 4.18, 0.0], [133.84, 4.36, 0.9]], [[133.86, 3.56, 0.0], [134.35, 4.15, 0.9]], [[134.37, 3.56, 0.0], [134.82, 4.15, 0.9]], [[133.27, 5.85, 0.0], [133.84, 6.15, 0.89]]], 'ceilings': [[[133.16, 3.46, 2.4], [137.38, 7.37, 2.7]]], 'countertop': [[[135.1, 5.95, 2.0], [135.53, 6.33, 2.02]], [[135.1, 5.95, 1.65], [135.53, 6.33, 1.67]], [[133.27, 4.15, 0.9], [133.83, 4.37, 0.92]], [[133.27, 3.56, 0.9], [134.82, 4.15, 0.92]], [[133.27, 5.24, 0.9], [133.83, 6.14, 0.92]], [[135.61, 3.17, 0.86], [137.3, 3.87, 0.9]], [[135.61, 3.23, 0.04], [137.29, 3.66, 0.84]]], 'dishwasher': [[[133.27, 5.25, 0.0], [133.87, 5.83, 0.89]]], 'door': [[[133.06, 6.44, 0.0], [133.26, 7.24, 1.99]], [[135.07, 6.55, 0.01], [135.2, 7.26, 1.99]]], 'electric_switch': [[[134.77, 3.53, 1.14], [134.85, 3.57, 1.26]], [[137.3, 5.37, 1.14], [137.33, 5.45, 1.26]]], 'floors': [[[133.16, 3.46, -0.3], [137.38, 7.37, -0.0]]], 'fridge': [[[136.5, 5.47, 0.01], [137.29, 6.31, 1.64]]], 'furniture_sink': [[[133.27, 4.37, 0.01], [133.87, 5.23, 1.09]]], 'openable_window': [[[133.07, 4.38, 1.3], [133.25, 5.22, 2.1]]], 'oven': [[[135.38, 5.57, 0.0], [136.19, 6.33, 1.2]]], 'top_cabinet': [[[135.54, 5.92, 1.55], [136.19, 6.35, 2.38]], [[133.58, 3.55, 1.3], [134.83, 3.91, 2.38]], [[133.25, 5.23, 1.3], [133.57, 6.15, 2.38]], [[133.25, 4.14, 1.3], [133.77, 4.36, 2.38]], [[136.2, 5.92, 1.8], [137.3, 6.34, 2.38]]]}, 'living_room_0': {'armchair': [[[139.39, -1.44, 0.01], [140.07, -0.71, 0.76]], [[140.93, -1.43, 0.01], [141.69, -0.63, 0.76]], [[138.62, 1.46, -0.0], [139.64, 2.48, 0.8]]], 'bottom_cabinet': [[[140.15, -1.54, -0.0], [140.9, -1.12, 0.79]]], 'carpet': [[[139.78, -0.26, 0.0], [142.19, 1.29, 0.0]]], 'ceilings': [[[137.38, -1.67, 2.4], [143.32, 2.64, 2.7]]], 'coffee_table': [[[140.74, 0.5, 0.01], [141.63, 1.01, 0.48]]], 'door': [[[137.32, -1.06, 0.01], [137.46, -0.16, 2.09]]], 'electric_switch': [[[138.43, 2.53, 1.14], [138.5, 2.57, 1.26]]], 'floor_lamp': [[[142.45, 1.94, -0.0], [143.15, 2.48, 1.64]]], 'floors': [[[137.38, -1.67, -0.3], [143.32, 2.64, -0.0]]], 'mirror': [[[143.12, -0.22, 1.32], [143.24, 1.52, 2.29]]], 'openable_window': [[[137.66, -1.77, 0.71], [139.25, -1.57, 2.1]], [[141.66, -1.77, 0.71], [143.15, -1.57, 2.1]], [[143.25, -1.47, 0.71], [143.39, -0.35, 2.09]]], 'picture': [[[140.29, 2.53, 1.05], [141.91, 2.55, 1.7]], [[140.06, -1.57, 1.11], [141.01, -1.55, 2.19]]], 'radiator': [[[137.77, -1.54, 0.0], [139.06, -1.35, 0.5]], [[141.79, -1.55, 0.0], [143.08, -1.36, 0.5]]], 'sofa': [[[140.0, 1.63, -0.0], [142.09, 2.52, 0.8]]], 'table_lamp': [[[140.26, -1.4, 0.81], [140.46, -1.19, 1.45]]], 'wall_nail': [[[139.16, 2.54, 1.4], [139.17, 2.55, 1.41]], [[138.42, -1.57, 2.16], [138.43, -1.56, 2.17]]]}, 'storage_room_1': {'ceilings': [[[138.53, 2.64, 2.4], [139.56, 4.08, 2.7]]], 'door': [[[138.49, 3.11, 0.01], [138.59, 3.8, 1.99]]], 'electric_switch': [[[138.57, 3.84, 1.14], [138.6, 3.91, 1.26]]], 'floors': [[[138.53, 2.64, -0.3], [139.56, 4.08, -0.0]]]}}\n The new_objects_name_list is: ['table_runner', 'spatula', 'price_tag', 'pasta_box', 'hotdog', 'air_freshener_atomizer', 'edible_cookie_dough', 'soy_sauce_bottle', 'waffle_maker', 'poinsettia', 'alarm_clock', 'yogurt_carton', 'enchilada', 'floor_wax_bottle', 'windshield', 'pitcher', 'zucchini', 'paintbrush', 'water_bottle', 'gaming_table', 'vanilla_flower', 'scoreboard', 'sodium_carbonate_jar', 'bicycle_chain', 'sauna_heater', 'tomato_rice', 'pottable_daffodil', 'chicken_broth_carton', 'chanterelle', 'bap', 'cream_carton', 'wineglass', 'water_glass', 'bottle_of_lotion', 'makeup_mirror', 'loudspeaker', 'carton_of_pineapple_juice', 'can', 'mixing_bowl', 'legal_document', 'bottle_of_sage', 'bottle_of_maple_syrup', 'soil', 'shredder', 'sweet_corn', 'spray_paint', 'box_of_wagashi', 'curry_powder_shaker', 'hingeless_jar', 'cream_pitcher', 'menu', 'tree', 'pack_of_chocolate_bar', 'penne', 'chocolate_chip_cookie', 'elevator_door', 'turkey', 'serving_cart', 'salmon', 'pajamas', 'video_game', 'key', 'toilet_paper', 'bottle_of_sesame_oil', 'lily_pad', 'carton_of_orange_juice', 'caliper', 'basil', 'blender', 'dvd', 'garden_umbrella', 'cigar', 'box_of_takeout', 'pumpkin_pie_spice', 'pork_rib', 'tweezers', 'bottle_of_tonic', 'milk_carton', 'wall_clock', 'boxed_cpu_board', 'sesame_oil_bottle', 'lab_table', 'box_of_apple_juice', 'cashew', 'ashtray', 'pocketknife', 'jimmies_jar', 'hydrogen_peroxide_bottle', 'goggles', 'radio', 'legging', 'grocery_fridge', 'dice', 'bottle_of_mustard_seeds', 'post_it', 'vidalia_onion', 'petfood_bag', 'saucer', 'urinal', 'granulated_salt', 'plate', 'lettuce', 'bacon']"
+        },
+        {
+            "role": "assistant",
+            "content": "{'Task': 'Prepare a breakfast plate on the table in the living room by placing an empty plate on the table, adding vegetables onto the plate, and placing bacon on top of the vegetables. I prefer lettuce to tomato.', 'new objects': [{'category': 'breakfast_table', 'location': ['in-living_room_0', 'on-floors'], 'scale': [1.2, 0.75, 0.8]}, {'category': 'bacon', 'location': ['in-kitchen_0', 'on-counter'], 'scale': [0.15, 0.05, 0.1]}, {'category': 'tomato', 'location': ['in-bedroom_0', 'on-floors'], 'scale': [0.08, 0.08, 0.08]}, {'category': 'lettuce', 'location': ['in-storage_room_0', 'on-floors'], 'scale': [0.15, 0.15, 0.12]}, {'category': 'plate', 'location': ['in-dining_room_0', 'on-table'], 'scale': [0.3, 0.03, 0.3]}], 'Rooms': ['living_room_0', 'kitchen_0', 'bedroom_0', 'storage_room_0', 'dining_room_0', 'office_0'], 'Trajectory': [\"<GO TO living_room_0> | INTERNAL REFLECTION: living_room_0 hasn't been explored. Need to verify the breakfast table exists. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO living_room_0> | EXTERNAL REFLECTION: There is a breakfast table here! This is where I need to set up the plate. | SCORE: 100', '<Exit living_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Confirmed table location. Cannot return until I have items to place. | SCORE: 0', \"<GO TO kitchen_0> | INTERNAL REFLECTION: kitchen_0 hasn't been explored. This is a good action. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: I see bacon on the counter! Let me verify it. | SCORE: 100', '<PICK UP bacon in kitchen_0> | INTERNAL REFLECTION: Trying to pick up the bacon to verify its presence. | SCORE: 88', 'execution: success', \"PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Bacon exists, but it's the last step. I need plate and vegetables first. | SCORE: 20\", \"<PUT DOWN bacon on floors in kitchen_0> | INTERNAL REFLECTION: Putting bacon back on the floor. It's not time for this yet. | SCORE: 100\", 'execution: success', '<Exit kitchen_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Found bacon. Bacon is last step. Cannot return until much later. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon verified but wrong order. Need plate and vegetables first. | SCORE: 20', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have items to place. | SCORE: 0', \"<GO TO bedroom_0> | INTERNAL REFLECTION: bedroom_0 hasn't been explored. This is a good action. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO bedroom_0> | EXTERNAL REFLECTION: I see a tomato on the nightstand! Let me verify it. | SCORE: 100', '<PICK UP tomato in bedroom_0> | INTERNAL REFLECTION: Trying to pick up the tomato to verify its presence. | SCORE: 85', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Tomato is my second choice for vegetables. Lettuce would be better if it exists. Also, I need the plate first. | SCORE: 60', '<PUT DOWN tomato on floors in bedroom_0> | INTERNAL REFLECTION: Putting tomato back. Need to find lettuce and plate first. | SCORE: 100', 'execution: success', '<Exit bedroom_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Found tomato (rank 2 vegetable). Still looking for lettuce and a good plate. | SCORE: 60', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: Tomato is acceptable but lettuce preferred. Keep exploring. | SCORE: 60', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Kitchen has bacon. Still not time to return. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Wrong order. Still need plate and vegetables first. | SCORE: 20', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have items. | SCORE: 0', \"<GO TO storage_room_0> | INTERNAL REFLECTION: storage_room_0 hasn't been explored. This is a good action. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO storage_room_0> | EXTERNAL REFLECTION: I found lettuce on the shelf! This is my preferred vegetable! | SCORE: 100', '<PICK UP lettuce in storage_room_0> | INTERNAL REFLECTION: Trying to pick up the lettuce to verify it. | SCORE: 95', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Lettuce is my top choice! But I still need to place the plate first. | SCORE: 80', '<PUT DOWN lettuce on floors in storage_room_0> | INTERNAL REFLECTION: Putting lettuce back. Need plate first, but this is definitely my vegetable choice. | SCORE: 100', 'execution: success', '<Exit storage_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Found lettuce (rank 1 vegetable)! This is the one I want. But need plate first. | SCORE: 80', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce verified as best vegetable choice. Ready to get it after placing plate. | SCORE: 80', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato there is inferior to lettuce. No need to return. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: Lettuce is better. Tomato no longer needed. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Kitchen has bacon. Still not time for bacon. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still wrong order. Need plate and vegetables first. | SCORE: 20', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Cannot return until I have plate to place. | SCORE: 0', \"<GO TO dining_room_0> | INTERNAL REFLECTION: dining_room_0 hasn't been explored. This is a good action. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO dining_room_0> | EXTERNAL REFLECTION: I found a large plate on the table! This looks perfect! | SCORE: 100', '<PICK UP large_plate in dining_room_0> | INTERNAL REFLECTION: Trying to pick up the large plate. This looks like the right size! | SCORE: 95', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PICK UP large_plate in dining_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. This large plate is perfect for the breakfast! Ready to set the table! | SCORE: 90', '<Exit dining_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Found the perfect plate! Already retrieved it. No need to return. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP large_plate in dining_room_0> | EXTERNAL REFLECTION: Large plate already retrieved. Task component complete. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Now that I have the plate, ready to set the table! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. Need vegetables next. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: After placing plate, need to get lettuce. But not yet. | SCORE: 40', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce is the chosen vegetable. Will retrieve after placing plate. | SCORE: 80', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Lettuce beats tomato. Never returning for tomato. | SCORE: 0', \"<GO TO office_0> | INTERNAL REFLECTION: office_0 hasn't been explored. This is a good action. | SCORE: 100\", 'PREVIOUS ACTION TO REFLECT ON: <GO TO office_0> | EXTERNAL REFLECTION: Nothing useful here for breakfast preparation. | SCORE: 0', '<Exit office_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO office_0> | EXTERNAL REFLECTION: Nothing here. Complete waste of time. Never returning. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Have the plate. Time to set the table! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: After placing plate, need to get lettuce. | SCORE: 40', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. Plate is done, but need vegetables next. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Plate already retrieved. Never returning. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato inferior. Never needed. | SCORE: 0', '<GO TO bedroom_0> | INTERNAL REFLECTION: Tomato inferior. Never needed. | SCORE: 0', \"score low. don't execute.\", '<GO TO office_0> | INTERNAL REFLECTION: Nothing here. Complete waste of time. Never returning. | SCORE: 0', \"score low. don't execute.\", '<GO TO kitchen_0> | INTERNAL REFLECTION: Still not time for bacon. Plate is done, but need vegetables next. | SCORE: 0', \"score low. don't execute.\", '<GO TO dining_room_0> | INTERNAL REFLECTION: Plate already retrieved. Never returning. | SCORE: 0', \"score low. don't execute.\", '<GO TO living_room_0> | INTERNAL REFLECTION: Have the plate. Time to set the table! | SCORE: 100', '<PUT DOWN large_plate on breakfast_table in living_room_0>', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PUT DOWN large_plate on breakfast_table> | EXTERNAL REFLECTION: Successfully placed the plate on the table! Now ready to get vegetables. | SCORE: 100', '<Exit living_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Plate placed. Cannot return until I have vegetables. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Plate is down. Time to pick up the best vegetable - lettuce! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Ready to retrieve lettuce now! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Still not time for bacon. Need vegetables first. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon is last. Not ready yet. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Plate already retrieved and placed. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato not needed. Lettuce is better. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO office_0> | EXTERNAL REFLECTION: Nothing there. Never return. | SCORE: 0', '<GO TO storage_room_0> | INTERNAL REFLECTION: Plate is down. Time to pick up the best vegetable - lettuce! | SCORE: 100', '<PICK UP lettuce in storage_room_0> | INTERNAL REFLECTION: Ready to retrieve lettuce now! | SCORE: 100', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Got the lettuce! Time to place it on the plate. | SCORE: 100', '<Exit storage_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Lettuce already retrieved. Never returning. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP lettuce in storage_room_0> | EXTERNAL REFLECTION: Lettuce retrieved. Task component complete. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Time to place vegetables on the plate! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Not yet time for bacon. Vegetables need to go down first. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Still last step. Not ready. | SCORE: 0', '<GO TO living_room_0> | INTERNAL REFLECTION: Time to place vegetables on the plate! | SCORE: 100', '<PUT DOWN lettuce on large_plate in living_room_0>', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PUT DOWN lettuce on large_plate> | EXTERNAL REFLECTION: Vegetables placed! Now ready for the final step - bacon! | SCORE: 100', '<Exit living_room_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Plate and vegetables done. Cannot return until I have bacon. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Time to pick up the bacon! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Ready to retrieve bacon now! | SCORE: 100', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO storage_room_0> | EXTERNAL REFLECTION: Lettuce already retrieved and placed. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO dining_room_0> | EXTERNAL REFLECTION: Plate already used. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato not needed. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO office_0> | EXTERNAL REFLECTION: Nothing there. | SCORE: 0', '<GO TO kitchen_0> | INTERNAL REFLECTION: Time to pick up the bacon! | SCORE: 100', '<PICK UP bacon in kitchen_0> | INTERNAL REFLECTION: Ready to retrieve bacon now! | SCORE: 100', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Got the bacon! Final step - place it on the vegetables! | SCORE: 100', '<Exit kitchen_0>', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Bacon already retrieved. Never returning. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: Bacon retrieved. Last component done. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Time to complete the breakfast plate! | SCORE: 100', '<GO TO living_room_0> | INTERNAL REFLECTION: Time to complete the breakfast plate! | SCORE: 100', '<PUT DOWN bacon on lettuce in living_room_0>', 'execution: success', 'PREVIOUS ACTION TO REFLECT ON: <PUT DOWN bacon on lettuce> | EXTERNAL REFLECTION: Bacon placed! Breakfast plate complete! Task done! | SCORE: 100', '<Done>'], 'Failures': [\"PREVIOUS ACTION TO REFLECT ON: <PICK UP bacon in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Bacon exists, but it's the last step. I need plate and vegetables first. | SCORE: 20\", 'PREVIOUS ACTION TO REFLECT ON: <PICK UP tomato in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Tomato is my second choice for vegetables. Lettuce would be better if it exists. Also, I need the plate first. | SCORE: 60', 'PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Tomato there is inferior to lettuce. No need to return. | SCORE: 0', 'PREVIOUS ACTION TO REFLECT ON: <GO TO office_0> | EXTERNAL REFLECTION: Nothing useful here for breakfast preparation. | SCORE: 0']}"
+        },
+        {
+            "role": "user",
+            "content": "{'bedroom_0': {'bed': [[[221.28, -1.94, -0.0], [222.93, 0.34, 1.2]]], 'bottom_cabinet': [[[221.33, 1.07, -0.0], [221.9, 1.43, 1.29]]], 'ceilings': [[[221.15, -2.03, 2.4], [223.09, 1.54, 2.7]]], 'door': [[[222.18, 1.46, 0.0], [222.96, 1.63, 1.99]]], 'electric_switch': [[[223.02, 0.34, 1.14], [223.05, 0.42, 1.26]]], 'floors': [[[221.15, -2.03, -0.3], [223.09, 1.54, -0.0]]], 'openable_window': [[[221.09, -1.63, 1.3], [221.22, -0.17, 1.9]]], 'picture': [[[221.94, -1.95, 1.47], [222.27, -1.92, 1.72]]]}, 'entryway_0': {'bottom_cabinet': [[[226.5, 1.65, 0.01], [227.03, 2.74, 0.84]]], 'ceilings': [[[225.61, 1.54, 2.4], [227.11, 3.51, 2.7]]], 'door': [[[225.75, 3.46, 0.01], [226.6, 3.57, 1.99]]], 'electric_switch': [[[226.64, 3.44, 1.14], [226.71, 3.48, 1.26]]], 'floors': [[[225.61, 1.54, -0.3], [227.11, 3.51, -0.0]]]}, 'kitchen_0': {'bottom_cabinet': [[[223.16, 2.79, -0.0], [223.9, 3.44, 0.88]], [[223.17, 1.63, 0.01], [223.8, 1.8, 0.87]]], 'ceilings': [[[223.09, 1.54, 2.4], [225.73, 3.51, 2.7]]], 'countertop': [[[223.47, 1.37, 1.04], [225.27, 1.7, 1.08]]], 'dishwasher': [[[223.16, 2.82, 0.89], [223.69, 3.45, 1.29]]], 'electric_switch': [[[225.5, 1.61, 1.14], [225.57, 1.64, 1.26]]], 'floors': [[[223.09, 1.54, -0.3], [225.73, 3.51, -0.0]]], 'fridge': [[[224.88, 2.67, 0.01], [225.67, 3.45, 1.52]]], 'furniture_sink': [[[223.91, 2.78, 0.0], [224.82, 3.44, 0.88]]], 'microwave': [[[223.15, 2.81, 1.3], [223.7, 3.45, 1.61]]], 'openable_window': [[[223.59, 3.46, 1.04], [225.27, 3.57, 1.89]]], 'oven': [[[223.2, 1.81, 0.0], [223.9, 2.47, 1.05]]], 'public_trash_can': [[[223.27, 2.48, -0.0], [223.55, 2.77, 0.48]]], 'top_cabinet': [[[223.15, 1.91, 1.62], [223.61, 3.11, 2.37]], [[223.64, 3.1, 1.91], [224.37, 3.46, 2.3]], [[224.38, 3.1, 1.91], [225.21, 3.46, 2.3]], [[223.52, 1.62, 1.91], [224.33, 1.91, 2.3]], [[224.35, 1.62, 1.91], [225.16, 1.91, 2.3]]]}, 'living_room_0': {'bookcase': [[[226.12, -4.03, -0.0], [226.91, -3.62, 1.3]], [[223.16, -3.72, -0.0], [223.63, -2.99, 1.65]], [[223.7, -4.0, -0.0], [224.61, -3.62, 0.76]]], 'bottom_cabinet': [[[223.23, -0.69, 0.01], [223.66, -0.23, 0.71]], [[226.45, -2.32, -0.0], [227.02, -0.67, 0.75]]], 'breakfast_table': [[[226.25, -0.07, -0.0], [227.04, 0.9, 0.76]], [[224.63, -4.02, -0.0], [226.06, -3.52, 0.76]]], 'carpet': [[[224.13, -2.2, 0.0], [225.38, -0.38, 0.0]]], 'ceilings': [[[223.09, -4.12, 2.4], [227.11, 1.54, 2.7]]], 'coffee_table': [[[224.38, -1.84, 0.01], [225.01, -0.6, 0.41]]], 'countertop': [[[223.47, 1.37, 1.04], [225.27, 1.7, 1.08]]], 'electric_switch': [[[226.57, 1.44, 1.14], [226.65, 1.47, 1.26]], [[223.14, 0.3, 1.14], [223.17, 0.38, 1.26]]], 'floor_lamp': [[[223.19, -0.14, -0.0], [223.46, 0.17, 1.7]]], 'floors': [[[223.09, -4.12, -0.3], [227.11, 1.54, -0.0]]], 'laptop': [[[224.47, -1.67, 0.42], [224.69, -1.36, 0.43]]], 'loudspeaker': [[[226.74, -1.14, 0.76], [226.89, -0.73, 1.0]]], 'openable_window': [[[227.04, -2.42, 1.04], [227.18, -0.33, 1.89]], [[223.96, -4.2, 1.04], [226.04, -4.03, 1.89]]], 'ottoman': [[[224.29, -2.97, 0.01], [225.2, -2.08, 0.4]]], 'picture': [[[227.02, -0.21, 1.24], [227.04, 0.21, 1.5]], [[223.15, -2.54, 1.24], [223.18, -1.97, 1.5]]], 'pot_plant': [[[224.56, -1.0, 0.42], [224.98, -0.62, 0.59]], [[226.69, -2.27, 0.76], [226.93, -2.07, 1.0]], [[223.31, -0.57, 0.73], [223.51, -0.38, 1.31]]], 'sofa': [[[223.19, -2.63, 0.02], [224.18, -0.81, 0.79]]], 'standing_tv': [[[226.66, -1.95, 0.76], [226.77, -1.25, 1.21]]], 'straight_chair': [[[226.44, 0.84, -0.0], [226.94, 1.24, 0.85]], [[226.5, -0.37, -0.0], [227.0, 0.02, 0.85]], [[225.95, 0.11, -0.0], [226.36, 0.62, 0.85]], [[224.53, 0.93, -0.0], [225.0, 1.39, 0.99]], [[223.69, 0.93, -0.0], [224.15, 1.39, 0.99]]], 'swivel_chair': [[[225.09, -3.66, -0.0], [225.52, -3.27, 0.78]]], 'table_lamp': [[[224.68, -4.0, 0.76], [224.88, -3.83, 1.26]]]}}\n The new_objects_name_list is: ['paper_clip', 'teacup', 'quiche', 'tube_of_lotion', 'turnstile', 'risotto', 'green_onion', 'shortening_carton', 'pool_table', 'ticket', 'blender', 'dish_rack_cart', 'black_bean', 'auricularia', 'test_tube_clamp', 'pedestal_sink', 'massage_bed', 'pita', 'wineglass', 'paintbrush', 'bottle_of_glass_cleaner', 'straight_pin', 'toaster', 'aluminum_foil', 'walnut_meat', 'bottle_of_sealant', 'power_washer', 'heap_of_gravel', 'shaker', 'frying_pan', 'goalkeeper_gloves', 'prosciutto', 'bottle_of_chili_pepper', 'bottle_of_glue', 'background', 'match_box', 'clout_nail', 'drumstick', 'bottle_of_black_pepper', 'dart', 'coffee_maker', 'wrapping_paper', 'stand', 'strawberry', 'agave', 'pallet', 'bottle_of_skin_cream', 'copper_wire', 'pattypan_squash', 'edible_cookie_dough', 'cantaloup', 'chestnut', 'bottle_of_alfredo_sauce', 'french_fry_holder', 'echeveria_elegans', 'ice_cream_carton', 'honey_jar', 'box_of_flour', 'jar_of_cocoa', 'alarm_clock', 'venison', 'bandana', 'glaze_bottle', 'baking_powder', 'paver', 'bottle_of_ground_mace', 'bandage', 'bag_of_tea', 'jar_of_clove', 'breadcrumb', 'volleyball', 'insectifuge_atomizer', 'orange_juice_carton', 'detergent_bottle', 'picture_frame', 'chaise_longue', 'wax_remnant', 'trophy', 'tuna', 'box_of_fruit', 'sliced_papaya', 'lasagna', 'dust', 'box_of_lemons', 'watch', 'cup_of_yogurt', 'jar_of_puree', 'vinegar_atomizer', 'arbor', 'diaper', 'chicken_broth_carton', 'hockey_puck', 'paprika', 'violin', 'radish', 'bag_of_brown_rice', 'griddle_pan', 'blueberry', 'water_glass', 'soap_dish']"
+        }
+    ],
+    "ans": "{\n  \"Task\": \"Create a small display on the coffee table in the living room by first placing a stand on the coffee table, then placing a cup onto the stand. For the cup, I prefer a teacup over a water glass over a wineglass.\",\n  \"object_order\": [\"stand\", \"teacup\"],\n  \"new objects\": [\n    {\n      \"category\": \"water_glass\",\n      \"location\": [\"in-kitchen_0\", \"on-countertop\"],\n      \"scale\": [0.08, 0.12, 0.08]\n    },\n    {\n      \"category\": \"teacup\",\n      \"location\": [\"in-bedroom_0\", \"on-bottom_cabinet\"],\n      \"scale\": [0.09, 0.07, 0.09]\n    },\n    {\n      \"category\": \"stand\",\n      \"location\": [\"in-entryway_0\", \"on-bottom_cabinet\"],\n      \"scale\": [0.3, 0.15, 0.3]\n    }\n  ],\n  \"Rooms\": [\"living_room_0\", \"kitchen_0\", \"bedroom_0\", \"entryway_0\"],\n  \"Trajectory\": [\n    \"<GO TO living_room_0> | INTERNAL REFLECTION: Final placement room; verify a suitable surface (coffee_table) exists. | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON: <GO TO living_room_0> | EXTERNAL REFLECTION: Found a coffee_table here. This will be the destination surface for placements. | SCORE: 100\",\n    \"<PICK UP teacup in living_room_0> | INTERNAL REFLECTION: Quick check for a cup here, though it's unlikely; verifying presence to avoid missing easy wins. | SCORE: 72\",\n    \"execution: fail\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Pick-up failed. No teacup here; confirms nothing to retrieve in the placement room. | SCORE: 0\",\n    \"<Exit living_room_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Destination confirmed. Do not return until carrying an item to place. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Failure confirms no source items in placement room. | SCORE: 0\",\n\n    \"<GO TO kitchen_0> | INTERNAL REFLECTION: Unexplored; likely to find a glass. | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: I see a water_glass on the countertop. Verifying it. | SCORE: 100\",\n    \"<PICK UP water_glass in kitchen_0> | INTERNAL REFLECTION: Verify the water_glass (rank 2 preference). Still need the stand first. | SCORE: 70\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Water glass is rank 2 (acceptable), but a teacup would be better; also, the stand must be placed first. | SCORE: 65\",\n    \"<PUT DOWN water_glass on floors in kitchen_0> | INTERNAL REFLECTION: Storing verified, non-priority item on the floor per rules. | SCORE: 100\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN water_glass on floors in kitchen_0> | EXTERNAL REFLECTION: Glass verified and stored safely on the floor. Will only retrieve if no better cup found. | SCORE: 60\",\n    \"<Exit kitchen_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Found a rank 2 cup option (water_glass). Keep exploring for a teacup and the stand. | SCORE: 60\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Verified rank 2 item; acceptable fallback if no teacup. | SCORE: 65\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PUT DOWN water_glass on floors in kitchen_0> | EXTERNAL REFLECTION: Correctly stored on the floor; will revisit only if needed. | SCORE: 60\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Not ready to place; need the stand first. | SCORE: 0\",\n\n    \"<GO TO bedroom_0> | INTERNAL REFLECTION: Unexplored; look for a teacup (preferred). | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON: <GO TO bedroom_0> | EXTERNAL REFLECTION: Found a teacup on the bottom cabinet. Verifying it. | SCORE: 100\",\n    \"<PICK UP teacup in bedroom_0> | INTERNAL REFLECTION: Verify the teacup (rank 1 preference). Stand still needed first. | SCORE: 90\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Teacup is top preference, but cannot place it until the stand is down. | SCORE: 85\",\n    \"<PUT DOWN teacup on floors in bedroom_0> | INTERNAL REFLECTION: Store the verified teacup on the floor until the stand is placed. | SCORE: 100\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN teacup on floors in bedroom_0> | EXTERNAL REFLECTION: Teacup confirmed and stored appropriately. Will return after placing the stand. | SCORE: 85\",\n    \"<Exit bedroom_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Best cup (teacup) located here. Will retrieve after placing the stand. | SCORE: 80\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Verified rank 1 item; prioritized after stand placement. | SCORE: 85\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PUT DOWN teacup on floors in bedroom_0> | EXTERNAL REFLECTION: Correct storage per rules. | SCORE: 85\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass is inferior to teacup; deprioritize. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Inferior to the teacup now; no need to retrieve. | SCORE: 0\",\n\n    \"<GO TO entryway_0> | INTERNAL REFLECTION: Last unexplored room likely holds the first item (stand). | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON: <GO TO entryway_0> | EXTERNAL REFLECTION: Found the stand on the bottom cabinet. Perfect\u2014this is step 1. | SCORE: 100\",\n    \"<PICK UP stand in entryway_0> | INTERNAL REFLECTION: Retrieve the stand; once held, I can place it on the coffee_table. | SCORE: 95\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP stand in entryway_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Holding the first item in the sequence; ready to place in the living room. | SCORE: 95\",\n    \"<Exit entryway_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO entryway_0> | EXTERNAL REFLECTION: Stand retrieved. Source room completed; do not return. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP stand in entryway_0> | EXTERNAL REFLECTION: Retrieval complete; focus shifts to placement. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Now holding the stand\u2014ready to place it. | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Teacup will be next after placing the stand. | SCORE: 40\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass is inferior; never return for it unless teacup becomes unavailable. | SCORE: 0\",\n    \"<GO TO kitchen_0> | INTERNAL REFLECTION: Not time for water_glass; carrying the stand now. | SCORE: 0\",\n    \"score low. don't execute.\",\n    \"<GO TO bedroom_0> | INTERNAL REFLECTION: Teacup is next, but only after the stand is placed. | SCORE: 40\",\n    \"score low. don't execute.\",\n\n    \"<GO TO living_room_0> | INTERNAL REFLECTION: Carrying the stand; ready to place it on the coffee_table. | SCORE: 100\",\n    \"<PUT DOWN stand on coffee_table in living_room_0>\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN stand on coffee_table> | EXTERNAL REFLECTION: Stand placed successfully. Now ready to retrieve the preferred cup (teacup). | SCORE: 100\",\n    \"<Exit living_room_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: First step done. Do not return until holding the cup. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Time to retrieve the teacup (rank 1). | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Now fully ready to retrieve the teacup. | SCORE: 100\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass remains inferior; not needed. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Inferior to teacup; never retrieve. | SCORE: 0\",\n\n    \"<GO TO kitchen_0> | INTERNAL REFLECTION: Not needed; water_glass is inferior. | SCORE: 0\",\n    \"score low. don't execute.\",\n\n    \"<GO TO bedroom_0> | INTERNAL REFLECTION: Retrieve the teacup now that the stand is placed. | SCORE: 100\",\n    \"<PICK UP teacup in bedroom_0> | INTERNAL REFLECTION: Ready to retrieve the preferred cup. | SCORE: 100\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Holding the top-ranked cup; ready to place it. | SCORE: 100\",\n    \"<Exit bedroom_0>\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Teacup retrieved; source room complete. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Retrieval finalized; no need to return. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Ready to complete the display. | SCORE: 100\",\n\n    \"<GO TO living_room_0> | INTERNAL REFLECTION: Final placement\u2014finish the display. | SCORE: 100\",\n    \"<PUT DOWN teacup on stand in living_room_0>\",\n    \"execution: success\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PUT DOWN teacup on stand> | EXTERNAL REFLECTION: Cup placed on the stand. Display complete! | SCORE: 100\",\n    \"<Done>\"\n  ],\n  \"Failures\": [\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Pick-up failed. No teacup here; confirms nothing to retrieve in the placement room. | SCORE: 0\",\n    \"PREVIOUS ACTION TO REFLECT ON: <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Water glass is rank 2 (acceptable), but a teacup would be better; also, the stand must be placed first. | SCORE: 65\",\n    \"PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: Not needed; water_glass is inferior to the teacup. | SCORE: 0\"\n  ]\n}",
+    "parsed_ans": {
+        "Task": "Create a small display on the coffee table in the living room by first placing a stand on the coffee table, then placing a cup onto the stand. For the cup, I prefer a teacup over a water glass over a wineglass.",
+        "object_order": [
+            "stand",
+            "teacup"
+        ],
+        "new objects": [
+            {
+                "category": "water_glass",
+                "location": [
+                    "in-kitchen_0",
+                    "on-countertop"
+                ],
+                "scale": [
+                    0.08,
+                    0.12,
+                    0.08
+                ]
+            },
+            {
+                "category": "teacup",
+                "location": [
+                    "in-bedroom_0",
+                    "on-bottom_cabinet"
+                ],
+                "scale": [
+                    0.09,
+                    0.07,
+                    0.09
+                ]
+            },
+            {
+                "category": "stand",
+                "location": [
+                    "in-entryway_0",
+                    "on-bottom_cabinet"
+                ],
+                "scale": [
+                    0.3,
+                    0.15,
+                    0.3
+                ]
+            }
+        ],
+        "Rooms": [
+            "living_room_0",
+            "kitchen_0",
+            "bedroom_0",
+            "entryway_0"
+        ],
+        "Trajectory": [
+            "<GO TO living_room_0> | INTERNAL REFLECTION: Final placement room; verify a suitable surface (coffee_table) exists. | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON: <GO TO living_room_0> | EXTERNAL REFLECTION: Found a coffee_table here. This will be the destination surface for placements. | SCORE: 100",
+            "<PICK UP teacup in living_room_0> | INTERNAL REFLECTION: Quick check for a cup here, though it's unlikely; verifying presence to avoid missing easy wins. | SCORE: 72",
+            "execution: fail",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Pick-up failed. No teacup here; confirms nothing to retrieve in the placement room. | SCORE: 0",
+            "<Exit living_room_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Destination confirmed. Do not return until carrying an item to place. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Failure confirms no source items in placement room. | SCORE: 0",
+            "<GO TO kitchen_0> | INTERNAL REFLECTION: Unexplored; likely to find a glass. | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: I see a water_glass on the countertop. Verifying it. | SCORE: 100",
+            "<PICK UP water_glass in kitchen_0> | INTERNAL REFLECTION: Verify the water_glass (rank 2 preference). Still need the stand first. | SCORE: 70",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Water glass is rank 2 (acceptable), but a teacup would be better; also, the stand must be placed first. | SCORE: 65",
+            "<PUT DOWN water_glass on floors in kitchen_0> | INTERNAL REFLECTION: Storing verified, non-priority item on the floor per rules. | SCORE: 100",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PUT DOWN water_glass on floors in kitchen_0> | EXTERNAL REFLECTION: Glass verified and stored safely on the floor. Will only retrieve if no better cup found. | SCORE: 60",
+            "<Exit kitchen_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Found a rank 2 cup option (water_glass). Keep exploring for a teacup and the stand. | SCORE: 60",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Verified rank 2 item; acceptable fallback if no teacup. | SCORE: 65",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PUT DOWN water_glass on floors in kitchen_0> | EXTERNAL REFLECTION: Correctly stored on the floor; will revisit only if needed. | SCORE: 60",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Not ready to place; need the stand first. | SCORE: 0",
+            "<GO TO bedroom_0> | INTERNAL REFLECTION: Unexplored; look for a teacup (preferred). | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON: <GO TO bedroom_0> | EXTERNAL REFLECTION: Found a teacup on the bottom cabinet. Verifying it. | SCORE: 100",
+            "<PICK UP teacup in bedroom_0> | INTERNAL REFLECTION: Verify the teacup (rank 1 preference). Stand still needed first. | SCORE: 90",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Teacup is top preference, but cannot place it until the stand is down. | SCORE: 85",
+            "<PUT DOWN teacup on floors in bedroom_0> | INTERNAL REFLECTION: Store the verified teacup on the floor until the stand is placed. | SCORE: 100",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PUT DOWN teacup on floors in bedroom_0> | EXTERNAL REFLECTION: Teacup confirmed and stored appropriately. Will return after placing the stand. | SCORE: 85",
+            "<Exit bedroom_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Best cup (teacup) located here. Will retrieve after placing the stand. | SCORE: 80",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Verified rank 1 item; prioritized after stand placement. | SCORE: 85",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PUT DOWN teacup on floors in bedroom_0> | EXTERNAL REFLECTION: Correct storage per rules. | SCORE: 85",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass is inferior to teacup; deprioritize. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Inferior to the teacup now; no need to retrieve. | SCORE: 0",
+            "<GO TO entryway_0> | INTERNAL REFLECTION: Last unexplored room likely holds the first item (stand). | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON: <GO TO entryway_0> | EXTERNAL REFLECTION: Found the stand on the bottom cabinet. Perfect\u2014this is step 1. | SCORE: 100",
+            "<PICK UP stand in entryway_0> | INTERNAL REFLECTION: Retrieve the stand; once held, I can place it on the coffee_table. | SCORE: 95",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP stand in entryway_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Holding the first item in the sequence; ready to place in the living room. | SCORE: 95",
+            "<Exit entryway_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO entryway_0> | EXTERNAL REFLECTION: Stand retrieved. Source room completed; do not return. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP stand in entryway_0> | EXTERNAL REFLECTION: Retrieval complete; focus shifts to placement. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Now holding the stand\u2014ready to place it. | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Teacup will be next after placing the stand. | SCORE: 40",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass is inferior; never return for it unless teacup becomes unavailable. | SCORE: 0",
+            "<GO TO kitchen_0> | INTERNAL REFLECTION: Not time for water_glass; carrying the stand now. | SCORE: 0",
+            "score low. don't execute.",
+            "<GO TO bedroom_0> | INTERNAL REFLECTION: Teacup is next, but only after the stand is placed. | SCORE: 40",
+            "score low. don't execute.",
+            "<GO TO living_room_0> | INTERNAL REFLECTION: Carrying the stand; ready to place it on the coffee_table. | SCORE: 100",
+            "<PUT DOWN stand on coffee_table in living_room_0>",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PUT DOWN stand on coffee_table> | EXTERNAL REFLECTION: Stand placed successfully. Now ready to retrieve the preferred cup (teacup). | SCORE: 100",
+            "<Exit living_room_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: First step done. Do not return until holding the cup. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Time to retrieve the teacup (rank 1). | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Now fully ready to retrieve the teacup. | SCORE: 100",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO kitchen_0> | EXTERNAL REFLECTION: Water glass remains inferior; not needed. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: Inferior to teacup; never retrieve. | SCORE: 0",
+            "<GO TO kitchen_0> | INTERNAL REFLECTION: Not needed; water_glass is inferior. | SCORE: 0",
+            "score low. don't execute.",
+            "<GO TO bedroom_0> | INTERNAL REFLECTION: Retrieve the teacup now that the stand is placed. | SCORE: 100",
+            "<PICK UP teacup in bedroom_0> | INTERNAL REFLECTION: Ready to retrieve the preferred cup. | SCORE: 100",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Holding the top-ranked cup; ready to place it. | SCORE: 100",
+            "<Exit bedroom_0>",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_0> | EXTERNAL REFLECTION: Teacup retrieved; source room complete. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <PICK UP teacup in bedroom_0> | EXTERNAL REFLECTION: Retrieval finalized; no need to return. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO living_room_0> | EXTERNAL REFLECTION: Ready to complete the display. | SCORE: 100",
+            "<GO TO living_room_0> | INTERNAL REFLECTION: Final placement\u2014finish the display. | SCORE: 100",
+            "<PUT DOWN teacup on stand in living_room_0>",
+            "execution: success",
+            "PREVIOUS ACTION TO REFLECT ON: <PUT DOWN teacup on stand> | EXTERNAL REFLECTION: Cup placed on the stand. Display complete! | SCORE: 100",
+            "<Done>"
+        ],
+        "Failures": [
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP teacup in living_room_0> | EXTERNAL REFLECTION: Pick-up failed. No teacup here; confirms nothing to retrieve in the placement room. | SCORE: 0",
+            "PREVIOUS ACTION TO REFLECT ON: <PICK UP water_glass in kitchen_0> | EXTERNAL REFLECTION: The pick-up action executed successfully. Water glass is rank 2 (acceptable), but a teacup would be better; also, the stand must be placed first. | SCORE: 65",
+            "PREVIOUS ACTION TO REFLECT ON: <GO TO kitchen_0> | EXTERNAL REFLECTION: Not needed; water_glass is inferior to the teacup. | SCORE: 0"
+        ]
+    },
+    "object_list": [
+        "paper_clip",
+        "teacup",
+        "quiche",
+        "tube_of_lotion",
+        "turnstile",
+        "risotto",
+        "green_onion",
+        "shortening_carton",
+        "pool_table",
+        "ticket",
+        "blender",
+        "dish_rack_cart",
+        "black_bean",
+        "auricularia",
+        "test_tube_clamp",
+        "pedestal_sink",
+        "massage_bed",
+        "pita",
+        "wineglass",
+        "paintbrush",
+        "bottle_of_glass_cleaner",
+        "straight_pin",
+        "toaster",
+        "aluminum_foil",
+        "walnut_meat",
+        "bottle_of_sealant",
+        "power_washer",
+        "heap_of_gravel",
+        "shaker",
+        "frying_pan",
+        "goalkeeper_gloves",
+        "prosciutto",
+        "bottle_of_chili_pepper",
+        "bottle_of_glue",
+        "background",
+        "match_box",
+        "clout_nail",
+        "drumstick",
+        "bottle_of_black_pepper",
+        "dart",
+        "coffee_maker",
+        "wrapping_paper",
+        "stand",
+        "strawberry",
+        "agave",
+        "pallet",
+        "bottle_of_skin_cream",
+        "copper_wire",
+        "pattypan_squash",
+        "edible_cookie_dough",
+        "cantaloup",
+        "chestnut",
+        "bottle_of_alfredo_sauce",
+        "french_fry_holder",
+        "echeveria_elegans",
+        "ice_cream_carton",
+        "honey_jar",
+        "box_of_flour",
+        "jar_of_cocoa",
+        "alarm_clock",
+        "venison",
+        "bandana",
+        "glaze_bottle",
+        "baking_powder",
+        "paver",
+        "bottle_of_ground_mace",
+        "bandage",
+        "bag_of_tea",
+        "jar_of_clove",
+        "breadcrumb",
+        "volleyball",
+        "insectifuge_atomizer",
+        "orange_juice_carton",
+        "detergent_bottle",
+        "picture_frame",
+        "chaise_longue",
+        "wax_remnant",
+        "trophy",
+        "tuna",
+        "box_of_fruit",
+        "sliced_papaya",
+        "lasagna",
+        "dust",
+        "box_of_lemons",
+        "watch",
+        "cup_of_yogurt",
+        "jar_of_puree",
+        "vinegar_atomizer",
+        "arbor",
+        "diaper",
+        "chicken_broth_carton",
+        "hockey_puck",
+        "paprika",
+        "violin",
+        "radish",
+        "bag_of_brown_rice",
+        "griddle_pan",
+        "blueberry",
+        "water_glass",
+        "soap_dish"
+    ]
+}

@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<mujoco>
+  <!--Automatically generated @ 20:17:18, 02/06/2026.-->
+  <compiler angle="radian" meshdir="." autolimits="true"/>
+  <include file="franka/panda.xml"/>
+  <include file="scene.xml"/>
+  <asset>
+    <mesh name="shape_1_mesh" file="assets_simple_normalize/gun/Gun.obj" scale="0.0714 0.255  0.4466"/>
+    <mesh name="shape_2_mesh" file="assets_simple_normalize/car/Car.obj" scale="0.1695 0.21   0.1016"/>
+    <mesh name="shape_3_mesh" file="assets_simple_normalize/vase/eb_house_plant_01.obj" scale="0.0637 0.1736 0.0737"/>
+    <mesh name="shape_4_mesh" file="assets_simple_normalize/axe/untitled.obj" scale="0.1541 1.7344 0.0736"/>
+    <mesh name="shape_5_mesh" file="assets_simple_normalize/deer/Deer.obj" scale="0.1192 0.102  0.0869"/>
+    <mesh name="shape_6_mesh" file="assets_simple_normalize/boat/boat.obj" scale="0.0813 0.3231 0.0714"/>
+    <mesh name="shape_7_mesh" file="assets_simple_normalize/bear/obj.obj" scale="0.0317 0.0737 0.0373"/>
+  </asset>
+  <worldbody>
+    <body name="brick_1" pos="-0.1   0.15  0.65" quat=" 0.5 -0.5  0.5 -0.5">
+      <geom name="cupboard_floor" type="box" size="0.125  0.0375 0.01  " pos="0.125  0.0375 0.01  " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="cupboard_floor_c" type="box" size="0.125  0.0375 0.01  " pos="0.125  0.0375 0.01  " class="collision"/>
+      <geom name="cupboard_left_wall" type="box" size="0.01   0.0375 0.125 " pos="0.     0.0375 0.125 " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="cupboard_left_wall_c" type="box" size="0.01   0.0375 0.125 " pos="0.     0.0375 0.125 " class="collision"/>
+      <geom name="cupboard_right_wall" type="box" size="0.01   0.0375 0.125 " pos="0.25   0.0375 0.125 " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="cupboard_right_wall_c" type="box" size="0.01   0.0375 0.125 " pos="0.25   0.0375 0.125 " class="collision"/>
+      <geom name="partition_x_0" type="box" size="0.005  0.0375 0.125 " pos="0.15   0.0375 0.125 " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="partition_x_0_c" type="box" size="0.005  0.0375 0.125 " pos="0.15   0.0375 0.125 " class="collision"/>
+      <geom name="partition_z_1" type="box" size="0.125  0.0375 0.005 " pos="0.125  0.0375 0.175 " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="partition_z_1_c" type="box" size="0.125  0.0375 0.005 " pos="0.125  0.0375 0.175 " class="collision"/>
+      <geom name="partition_z_2" type="box" size="0.075  0.0375 0.005 " pos="0.075  0.0375 0.05  " rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="partition_z_2_c" type="box" size="0.075  0.0375 0.005 " pos="0.075  0.0375 0.05  " class="collision"/>
+      <geom name="partition_x_3" type="box" size="0.005  0.0375 0.0875" pos="0.05   0.0375 0.0875" rgba="0.6 0.4 0.2 1. " class="visual"/>
+      <geom name="partition_x_3_c" type="box" size="0.005  0.0375 0.0875" pos="0.05   0.0375 0.0875" class="collision"/>
+      <geom name="back_panel_0" type="box" size="0.025 0.005 0.025" pos="0.025 0.07  0.025" rgba="0.9098 0.6784 0.1373 1.    " class="visual"/>
+      <geom name="back_panel_0_c" type="box" size="0.025 0.005 0.025" pos="0.025 0.07  0.025" class="collision"/>
+      <geom name="back_panel_1" type="box" size="0.025  0.005  0.0625" pos="0.025  0.07   0.1125" rgba="0.5843 0.4235 0.7059 1.    " class="visual"/>
+      <geom name="back_panel_1_c" type="box" size="0.025  0.005  0.0625" pos="0.025  0.07   0.1125" class="collision"/>
+      <geom name="back_panel_2" type="box" size="0.075  0.005  0.0375" pos="0.075  0.07   0.2125" rgba="0.4157 0.8    0.3922 1.    " class="visual"/>
+      <geom name="back_panel_2_c" type="box" size="0.075  0.005  0.0375" pos="0.075  0.07   0.2125" class="collision"/>
+      <geom name="back_panel_3" type="box" size="0.05  0.005 0.025" pos="0.1   0.07  0.025" rgba="0.5 0.3 0.1 1. " class="visual"/>
+      <geom name="back_panel_3_c" type="box" size="0.05  0.005 0.025" pos="0.1   0.07  0.025" class="collision"/>
+      <geom name="back_panel_4" type="box" size="0.05   0.005  0.0625" pos="0.1    0.07   0.1125" rgba="0.2 0.8 0.9 1. " class="visual"/>
+      <geom name="back_panel_4_c" type="box" size="0.05   0.005  0.0625" pos="0.1    0.07   0.1125" class="collision"/>
+      <geom name="back_panel_5" type="box" size="0.05   0.005  0.0875" pos="0.2    0.07   0.0875" rgba="0.2824 0.4706 0.8157 1.    " class="visual"/>
+      <geom name="back_panel_5_c" type="box" size="0.05   0.005  0.0875" pos="0.2    0.07   0.0875" class="collision"/>
+      <geom name="back_panel_6" type="box" size="0.05   0.005  0.0375" pos="0.2    0.07   0.2125" rgba="0.9333 0.5216 0.2902 1.    " class="visual"/>
+      <geom name="back_panel_6_c" type="box" size="0.05   0.005  0.0375" pos="0.2    0.07   0.2125" class="collision"/>
+      <site name="shape_1_target" pos="0.025  0.0375 0.045 " class="invisible_site"/>
+      <site name="shape_2_target" pos="0.025  0.0375 0.1325" class="invisible_site"/>
+      <site name="shape_3_target" pos="0.075  0.0375 0.2325" class="invisible_site"/>
+      <site name="shape_4_target" pos="0.1    0.0375 0.045 " class="invisible_site"/>
+      <site name="shape_5_target" pos="0.1    0.0375 0.1325" class="invisible_site"/>
+      <site name="shape_6_target" pos="0.2    0.0375 0.1075" class="invisible_site"/>
+      <site name="shape_7_target" pos="0.2    0.0375 0.2325" class="invisible_site"/>
+    </body>
+    <body name="shape_1" pos="-0.0143  0.2524  0.5381" quat=" 0.5  0.5  0.5 -0.5">
+      <freejoint/>
+      <geom name="shape_1_visual" type="mesh" mesh="shape_1_mesh" rgba="0.5 0.3 0.1 1. " class="visual"/>
+      <geom name="shape_1_collision" type="box" size="0.0352 0.0757 0.0376" class="collision"/>
+      <body name="shape_1_grasp" quat=" 0.5 -0.5 -0.5  0.5">
+        <site name="shape_1_grasp0" pos="0.     0.     0.0431" class="invisible_site"/>
+        <site name="shape_1_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_2" pos="-0.0762 -0.2025  0.5381" quat=" 0.5 -0.5  0.5 -0.5">
+      <freejoint/>
+      <geom name="shape_2_visual" type="mesh" mesh="shape_2_mesh" rgba="0.8627 0.4941 0.7529 1.    " class="visual"/>
+      <geom name="shape_2_collision" type="box" size="0.0376 0.0353 0.0503" class="collision"/>
+      <body name="shape_2_grasp" quat=" 0.5  0.5 -0.5  0.5">
+        <site name="shape_2_grasp0" pos="0.     0.     0.0431" class="invisible_site"/>
+        <site name="shape_2_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_3" pos="-0.0768  0.4037  0.5637" quat="0. 1. 0. 0.">
+      <freejoint/>
+      <geom name="shape_3_visual" type="mesh" mesh="shape_3_mesh" rgba="0.9333 0.5216 0.2902 1.    " class="visual"/>
+      <geom name="shape_3_collision" type="box" size="0.026  0.0632 0.0364" class="collision"/>
+      <body name="shape_3_grasp" quat=" 0. -1. -0. -0.">
+        <site name="shape_3_grasp0" pos="0.     0.     0.0687" class="invisible_site"/>
+        <site name="shape_3_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_4" pos=" 0.0877 -0.3116  0.5383" quat="0. 1. 0. 0.">
+      <freejoint/>
+      <geom name="shape_4_visual" type="mesh" mesh="shape_4_mesh" rgba="0.2 0.8 0.9 1. " class="visual"/>
+      <geom name="shape_4_collision" type="box" size="0.0266 0.0378 0.0363" class="collision"/>
+      <body name="shape_4_grasp" quat=" 0. -1. -0. -0.">
+        <site name="shape_4_grasp0" pos="0.     0.     0.0433" class="invisible_site"/>
+        <site name="shape_4_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_5" pos="0.0798 0.4565 0.5148" quat="0.     0.7071 0.7071 0.    ">
+      <freejoint/>
+      <geom name="shape_5_visual" type="mesh" mesh="shape_5_mesh" rgba="0.2824 0.4706 0.8157 1.    " class="visual"/>
+      <geom name="shape_5_collision" type="box" size="0.0143 0.0505 0.0352" class="collision"/>
+      <body name="shape_5_grasp" quat=" 0.     -0.7071 -0.7071 -0.    ">
+        <site name="shape_5_grasp0" pos="0.     0.     0.0198" class="invisible_site"/>
+        <site name="shape_5_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_6" pos="-0.1755  0.267   0.5393" quat="0. 1. 0. 0.">
+      <freejoint/>
+      <geom name="shape_6_visual" type="mesh" mesh="shape_6_mesh" rgba="0.8392 0.3725 0.3725 1.    " class="visual"/>
+      <geom name="shape_6_collision" type="box" size="0.0138 0.0388 0.0352" class="collision"/>
+      <body name="shape_6_grasp" quat=" 0. -1. -0. -0.">
+        <site name="shape_6_grasp0" pos="0.     0.     0.0443" class="invisible_site"/>
+        <site name="shape_6_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+    <body name="shape_7" pos="0.1121 0.3129 0.5144" quat=" 0.      0.      0.7071 -0.7071">
+      <freejoint/>
+      <geom name="shape_7_visual" type="mesh" mesh="shape_7_mesh" rgba="0.4745 0.4745 0.4745 1.    " class="visual"/>
+      <geom name="shape_7_collision" type="box" size="0.014  0.0364 0.0139" class="collision"/>
+      <body name="shape_7_grasp" quat=" 0.     -0.     -0.7071  0.7071">
+        <site name="shape_7_grasp0" pos="0.     0.     0.0194" class="invisible_site"/>
+        <site name="shape_7_align" pos="0 0 0" class="invisible_site"/>
+      </body>
+    </body>
+  </worldbody>
+  <equality>
+    <weld name="shape_1_grasp_hand" body1="hand" body2="shape_1" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_2_grasp_hand" body1="hand" body2="shape_2" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_3_grasp_hand" body1="hand" body2="shape_3" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_4_grasp_hand" body1="hand" body2="shape_4" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_5_grasp_hand" body1="hand" body2="shape_5" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_6_grasp_hand" body1="hand" body2="shape_6" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+    <weld name="shape_7_grasp_hand" body1="hand" body2="shape_7" active="false" solimp="0.99  0.999 0.001" solref="0.01 1.  "/>
+  </equality>
+</mujoco>

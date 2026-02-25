@@ -1,0 +1,7 @@
+__pycache__
+data
+logs
+models
+*.egg-info
+.command_history
+MUJOCO_LOG.TXT

@@ -1,0 +1,1000 @@
+{
+  "scene_name": "Benevolence_2_int_scene_dict.json",
+  "scene_desp": {
+    "bathroom_0": {
+      "ceilings": [
+        [
+          [
+            97.02,
+            5.11,
+            2.4
+          ],
+          [
+            99.19,
+            7.07,
+            2.7
+          ]
+        ]
+      ],
+      "electric_switch": [
+        [
+          [
+            99.13,
+            6.01,
+            1.14
+          ],
+          [
+            99.17,
+            6.09,
+            1.26
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            97.02,
+            5.11,
+            -0.3
+          ],
+          [
+            99.19,
+            7.07,
+            -0.0
+          ]
+        ]
+      ],
+      "mirror": [
+        [
+          [
+            97.1,
+            5.23,
+            1.11
+          ],
+          [
+            97.17,
+            5.91,
+            1.99
+          ]
+        ]
+      ],
+      "openable_window": [
+        [
+          [
+            98.34,
+            7.02,
+            1.2
+          ],
+          [
+            98.9,
+            7.12,
+            1.6
+          ]
+        ]
+      ],
+      "picture": [
+        [
+          [
+            97.88,
+            5.19,
+            1.3
+          ],
+          [
+            98.45,
+            5.21,
+            2.0
+          ]
+        ]
+      ],
+      "public_trash_can": [
+        [
+          [
+            98.92,
+            6.74,
+            -0.0
+          ],
+          [
+            99.14,
+            7.0,
+            0.4
+          ]
+        ]
+      ],
+      "shower_stall": [
+        [
+          [
+            97.11,
+            6.15,
+            0.0
+          ],
+          [
+            98.09,
+            7.02,
+            2.0
+          ]
+        ]
+      ],
+      "toilet": [
+        [
+          [
+            98.4,
+            6.33,
+            0.0
+          ],
+          [
+            98.84,
+            7.01,
+            0.7
+          ]
+        ]
+      ],
+      "towel_rack": [
+        [
+          [
+            99.1,
+            6.49,
+            1.2
+          ],
+          [
+            99.15,
+            6.95,
+            1.24
+          ]
+        ]
+      ],
+      "wall_mounted_sink": [
+        [
+          [
+            97.04,
+            5.28,
+            0.15
+          ],
+          [
+            97.42,
+            5.81,
+            1.0
+          ]
+        ]
+      ]
+    },
+    "bathroom_1": {
+      "bathtub": [
+        [
+          [
+            100.63,
+            2.61,
+            -0.0
+          ],
+          [
+            102.22,
+            3.29,
+            0.4
+          ]
+        ]
+      ],
+      "bottom_cabinet": [
+        [
+          [
+            99.25,
+            2.7,
+            -0.0
+          ],
+          [
+            99.78,
+            3.26,
+            0.85
+          ]
+        ]
+      ],
+      "ceilings": [
+        [
+          [
+            99.19,
+            1.12,
+            2.4
+          ],
+          [
+            102.3,
+            3.34,
+            2.7
+          ]
+        ]
+      ],
+      "countertop": [
+        [
+          [
+            100.98,
+            1.17,
+            1.6
+          ],
+          [
+            102.14,
+            1.4,
+            1.64
+          ]
+        ]
+      ],
+      "door": [
+        [
+          [
+            100.08,
+            1.07,
+            0.01
+          ],
+          [
+            100.86,
+            1.18,
+            1.99
+          ]
+        ]
+      ],
+      "electric_switch": [
+        [
+          [
+            100.92,
+            1.16,
+            1.14
+          ],
+          [
+            101.0,
+            1.2,
+            1.26
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            99.19,
+            1.12,
+            -0.3
+          ],
+          [
+            102.3,
+            3.34,
+            -0.0
+          ]
+        ]
+      ],
+      "multi_station_furniture_sink": [
+        [
+          [
+            99.26,
+            1.21,
+            -0.0
+          ],
+          [
+            99.8,
+            2.69,
+            1.13
+          ]
+        ]
+      ],
+      "openable_window": [
+        [
+          [
+            102.23,
+            1.53,
+            1.1
+          ],
+          [
+            102.38,
+            2.4,
+            1.8
+          ]
+        ]
+      ],
+      "picture": [
+        [
+          [
+            99.13,
+            1.55,
+            1.4
+          ],
+          [
+            99.15,
+            2.15,
+            2.0
+          ]
+        ],
+        [
+          [
+            99.13,
+            2.21,
+            1.3
+          ],
+          [
+            99.15,
+            2.73,
+            2.0
+          ]
+        ],
+        [
+          [
+            101.22,
+            1.05,
+            1.48
+          ],
+          [
+            101.77,
+            1.07,
+            1.87
+          ]
+        ]
+      ],
+      "toilet": [
+        [
+          [
+            101.48,
+            1.19,
+            0.0
+          ],
+          [
+            102.03,
+            1.88,
+            0.7
+          ]
+        ]
+      ],
+      "towel_rack": [
+        [
+          [
+            100.48,
+            2.62,
+            1.3
+          ],
+          [
+            100.54,
+            3.27,
+            1.34
+          ]
+        ]
+      ]
+    },
+    "bedroom_0": {
+      "bed": [
+        [
+          [
+            99.24,
+            5.96,
+            -0.0
+          ],
+          [
+            101.24,
+            7.0,
+            0.6
+          ]
+        ]
+      ],
+      "breakfast_table": [
+        [
+          [
+            101.67,
+            4.8,
+            -0.0
+          ],
+          [
+            102.22,
+            5.72,
+            0.7
+          ]
+        ]
+      ],
+      "ceilings": [
+        [
+          [
+            99.19,
+            4.14,
+            2.4
+          ],
+          [
+            102.3,
+            7.07,
+            2.7
+          ]
+        ]
+      ],
+      "countertop": [
+        [
+          [
+            101.96,
+            5.74,
+            1.4
+          ],
+          [
+            102.27,
+            6.85,
+            1.45
+          ]
+        ]
+      ],
+      "door": [
+        [
+          [
+            99.15,
+            4.25,
+            0.01
+          ],
+          [
+            99.23,
+            4.98,
+            1.99
+          ]
+        ],
+        [
+          [
+            99.15,
+            5.28,
+            0.01
+          ],
+          [
+            99.23,
+            5.97,
+            1.99
+          ]
+        ],
+        [
+          [
+            99.15,
+            3.45,
+            0.01
+          ],
+          [
+            99.23,
+            4.01,
+            1.99
+          ]
+        ],
+        [
+          [
+            100.11,
+            4.09,
+            0.01
+          ],
+          [
+            101.91,
+            4.18,
+            1.99
+          ]
+        ]
+      ],
+      "electric_switch": [
+        [
+          [
+            99.27,
+            4.16,
+            1.14
+          ],
+          [
+            99.34,
+            4.2,
+            1.26
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            99.19,
+            4.14,
+            -0.3
+          ],
+          [
+            102.3,
+            7.07,
+            -0.0
+          ]
+        ]
+      ],
+      "openable_window": [
+        [
+          [
+            99.99,
+            7.02,
+            0.76
+          ],
+          [
+            101.76,
+            7.12,
+            2.09
+          ]
+        ]
+      ],
+      "public_trash_can": [
+        [
+          [
+            102.0,
+            5.77,
+            -0.0
+          ],
+          [
+            102.22,
+            6.0,
+            0.4
+          ]
+        ]
+      ],
+      "swivel_chair": [
+        [
+          [
+            101.11,
+            4.99,
+            -0.0
+          ],
+          [
+            101.66,
+            5.57,
+            0.85
+          ]
+        ]
+      ],
+      "towel_rack": [
+        [
+          [
+            99.1,
+            6.49,
+            1.2
+          ],
+          [
+            99.15,
+            6.95,
+            1.24
+          ]
+        ]
+      ]
+    },
+    "bedroom_1": {
+      "bed": [
+        [
+          [
+            100.11,
+            -2.1,
+            -0.0
+          ],
+          [
+            102.22,
+            -0.54,
+            1.03
+          ]
+        ]
+      ],
+      "bookcase": [
+        [
+          [
+            98.31,
+            -2.5,
+            -0.0
+          ],
+          [
+            98.67,
+            -2.04,
+            1.0
+          ]
+        ]
+      ],
+      "bottom_cabinet": [
+        [
+          [
+            98.71,
+            -2.51,
+            -0.0
+          ],
+          [
+            99.55,
+            -2.04,
+            0.99
+          ]
+        ],
+        [
+          [
+            99.26,
+            0.08,
+            -0.0
+          ],
+          [
+            99.83,
+            1.05,
+            0.84
+          ]
+        ]
+      ],
+      "ceilings": [
+        [
+          [
+            98.23,
+            -3.25,
+            2.4
+          ],
+          [
+            102.3,
+            1.12,
+            2.7
+          ]
+        ]
+      ],
+      "crib": [
+        [
+          [
+            101.44,
+            -0.3,
+            0.01
+          ],
+          [
+            102.21,
+            1.05,
+            1.13
+          ]
+        ]
+      ],
+      "door": [
+        [
+          [
+            98.37,
+            -0.51,
+            0.01
+          ],
+          [
+            99.07,
+            -0.39,
+            1.99
+          ]
+        ],
+        [
+          [
+            98.17,
+            -1.96,
+            0.01
+          ],
+          [
+            98.29,
+            -1.31,
+            1.99
+          ]
+        ],
+        [
+          [
+            100.08,
+            1.07,
+            0.01
+          ],
+          [
+            100.86,
+            1.18,
+            1.99
+          ]
+        ]
+      ],
+      "electric_switch": [
+        [
+          [
+            98.27,
+            -0.64,
+            1.14
+          ],
+          [
+            98.31,
+            -0.57,
+            1.26
+          ]
+        ]
+      ],
+      "floor_lamp": [
+        [
+          [
+            101.81,
+            -2.99,
+            -0.0
+          ],
+          [
+            102.15,
+            -2.65,
+            1.75
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            98.23,
+            -3.25,
+            -0.3
+          ],
+          [
+            102.3,
+            1.12,
+            -0.0
+          ]
+        ]
+      ],
+      "mirror": [
+        [
+          [
+            99.23,
+            0.27,
+            1.0
+          ],
+          [
+            99.31,
+            0.89,
+            1.6
+          ]
+        ]
+      ],
+      "openable_window": [
+        [
+          [
+            100.28,
+            -3.31,
+            0.61
+          ],
+          [
+            102.04,
+            -3.19,
+            1.99
+          ]
+        ]
+      ],
+      "picture": [
+        [
+          [
+            101.22,
+            1.05,
+            1.48
+          ],
+          [
+            101.77,
+            1.07,
+            1.87
+          ]
+        ]
+      ],
+      "wall_mounted_tv": [
+        [
+          [
+            99.2,
+            0.35,
+            1.68
+          ],
+          [
+            99.89,
+            1.0,
+            2.05
+          ]
+        ]
+      ]
+    },
+    "closet_1": {
+      "electric_switch": [
+        [
+          [
+            98.15,
+            -2.09,
+            1.14
+          ],
+          [
+            98.19,
+            -2.01,
+            1.26
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            97.02,
+            -3.25,
+            -0.3
+          ],
+          [
+            100.04,
+            -0.45,
+            -0.0
+          ]
+        ]
+      ]
+    },
+    "corridor_0": {
+      "ceilings": [
+        [
+          [
+            97.02,
+            -0.45,
+            2.4
+          ],
+          [
+            99.19,
+            5.11,
+            2.7
+          ]
+        ]
+      ],
+      "clothes_dryer": [
+        [
+          [
+            97.1,
+            4.26,
+            1.02
+          ],
+          [
+            98.1,
+            4.95,
+            1.79
+          ]
+        ]
+      ],
+      "door": [
+        [
+          [
+            98.37,
+            -0.51,
+            0.01
+          ],
+          [
+            99.07,
+            -0.39,
+            1.99
+          ]
+        ]
+      ],
+      "electric_switch": [
+        [
+          [
+            98.25,
+            -0.41,
+            1.14
+          ],
+          [
+            98.33,
+            -0.37,
+            1.26
+          ]
+        ],
+        [
+          [
+            99.13,
+            4.09,
+            1.14
+          ],
+          [
+            99.17,
+            4.17,
+            1.26
+          ]
+        ]
+      ],
+      "floors": [
+        [
+          [
+            97.02,
+            -0.45,
+            -0.3
+          ],
+          [
+            99.19,
+            5.11,
+            -0.0
+          ]
+        ]
+      ],
+      "picture": [
+        [
+          [
+            99.13,
+            1.55,
+            1.4
+          ],
+          [
+            99.15,
+            2.15,
+            2.0
+          ]
+        ],
+        [
+          [
+            99.13,
+            2.21,
+            1.3
+          ],
+          [
+            99.15,
+            2.73,
+            2.0
+          ]
+        ]
+      ],
+      "washer": [
+        [
+          [
+            97.12,
+            4.26,
+            0.01
+          ],
+          [
+            98.12,
+            4.95,
+            0.99
+          ]
+        ]
+      ]
+    }
+  },
+  "parsed_data": {
+    "Task": "Find a most suitable lunch_box for the box_of_cookies on the breakfast table in the bedroom.",
+    "new objects": [
+      {
+        "category": "box_of_cookies",
+        "location": [
+          "in-bedroom_0",
+          "on-breakfast_table"
+        ],
+        "scale": [
+          0.22,
+          0.06,
+          0.15
+        ],
+        "type": "contents",
+        "instance": "qkzrdd"
+      },
+      {
+        "category": "plant_pot (fillable)",
+        "location": [
+          "in-bathroom_0",
+          "on-floors"
+        ],
+        "scale": [
+          2.331364631652832,
+          0.9355859160423279,
+          0.6199203729629517
+        ],
+        "type": "container",
+        "fit_check": "small",
+        "instance": "ihnfbi"
+      },
+      {
+        "category": "lunch_box (fillable)",
+        "location": [
+          "in-bathroom_1",
+          "on-floors"
+        ],
+        "scale": [
+          2.094104290008545,
+          0.6092005372047424,
+          2.145510196685791
+        ],
+        "type": "container",
+        "fit_check": "fit",
+        "instance": "adxzhe"
+      },
+      {
+        "category": "trash_can (fillable)",
+        "location": [
+          "in-corridor_0",
+          "on-floors"
+        ],
+        "scale": [
+          1.7584340572357178,
+          0.7056655883789062,
+          0.6297620534896851
+        ],
+        "type": "container",
+        "fit_check": "big",
+        "instance": "cjmezk"
+      }
+    ],
+    "Rooms": [
+      "bedroom_0",
+      "bathroom_0",
+      "corridor_0",
+      "bathroom_1"
+    ],
+    "Failures": [
+      "PREVIOUS ACTION TO REFLECT ON: <PUT box_of_cookies INSIDE plant_pot in bathroom_0> | EXTERNAL REFLECTION: The plant_pot is too small; the box doesn't fit at all. | SCORE: 0",
+      "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bathroom_0> | EXTERNAL REFLECTION: Found a plant_pot here, but it was too small to hold the box. | SCORE: 0",
+      "PREVIOUS ACTION TO REFLECT ON (retro): <PUT box_of_cookies INSIDE plant_pot in bathroom_0> | EXTERNAL REFLECTION: Container too small; unusable. | SCORE: 0",
+      "PREVIOUS ACTION TO REFLECT ON: <PUT box_of_cookies INSIDE trash_can in bathroom_1> | EXTERNAL REFLECTION: It fits, but there\u2019s a lot of empty space\u2014too large overall. | SCORE: 45",
+      "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bathroom_1> | EXTERNAL REFLECTION: A container exists here, but it\u2019s too large to be optimal. | SCORE: 45",
+      "PREVIOUS ACTION TO REFLECT ON: <GO TO bedroom_1> | EXTERNAL REFLECTION: No appropriate container found in this room. | SCORE: 0",
+      "PREVIOUS ACTION TO REFLECT ON (retro): <GO TO bedroom_1> | EXTERNAL REFLECTION: No container options here\u2014nothing to test. | SCORE: 0"
+    ]
+  }
+}
