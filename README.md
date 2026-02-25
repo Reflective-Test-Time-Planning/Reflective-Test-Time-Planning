@@ -11,7 +11,7 @@
 
 <h3>
 <a href="https://arxiv.org/abs/2502.xxxxx">📄 Paper</a> |
-<a href="https://your-project-page.github.io">🌐 Project Page</a> |
+<a href="https://reflective-test-time-planning.github.io/">🌐 Project Page</a> |
 <a href="#-citation">📖 Citation</a>
 </h3>
 
@@ -27,7 +27,7 @@
 
 
 ## 🏠 BEHAVIOR-1K: Long-Horizon Household Tasks
-
+Note: Unfortunately, due to BEHAVIOR environment restrictions, this experiment can only be running on 3090 / 4090, or two -80 series with some modifications. BEHAVIOR or OmniGibson doesn't support Blackwell GPUs.
 
 <details open>
 <summary><b>📋 Setup Instructions</b></summary>
@@ -96,6 +96,36 @@ python -c "import omnigibson as og; print(og.__version__)"
 python -c "import omnigibson as og; print(og.DATASET_PATH)"
 ```
 
+### Step 7: Run Inference
+
+In BEHAVIOR-model folder, run:
+
+```
+bash ./inference_hybrid.sh full
+```
+For running other categories. Do:
+```
+bash ./inference_storage.sh full
+bash ./inference_compare.sh full
+bash ./inference_storage.sh full
+```
+full: running the full model. For running the ablations, replace full with vanilla | wo-ria | wo-roa | wo-value | wo-action. e.g.:
+```
+bash ./inference_hybrid.sh vanilla
+```
+Note: Right now we only provide a sample evaluation set. The full evaluation set will be released upon acceptance. 
+
+### Step 8: Observe Results
+
+You will see accuracy report like this when you finish the experiments:
+```
+Processed: 3/3
+Completed (Right): 2
+Failed (Wrong): 1
+Crashed (Not counted): 0
+Valid runs: 3
+Accuracy: 66.7%
+```
 </details>
 
 ---
@@ -134,6 +164,10 @@ pip install -e .
 cd roboworld/envs
 python franka_cupboard_interactive.py
 ```
+
+### Step 5: Run Inference & Observe Results
+
+This part is being cleaned right now and will be released later this year.
 
 </details>
 
