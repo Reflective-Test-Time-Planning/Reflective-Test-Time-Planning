@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/arXiv-2502.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2602.21198)
+[![Paper](https://img.shields.io/badge/arXiv-2602.21198-b31b1b.svg)](https://arxiv.org/abs/2602.21198)
 [![Project Page](https://img.shields.io/badge/🌐-Project%20Page-blue)]([https://your-project-page.github.io](https://reflective-test-time-planning.github.io))
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
