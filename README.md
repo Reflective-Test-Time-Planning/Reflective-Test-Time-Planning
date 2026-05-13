@@ -15,7 +15,7 @@
 <a href="#-citation">📖 Citation</a>
 </h3>
 
-**[Yining Hong¹](https://evelinehong.github.io/)** · **[Huang Huang](https://qingh097.github.io/)¹** · **[Manling Li²](https://limanling.github.io/)** · **[Li Fei-Fei¹](https://profiles.stanford.edu/fei-fei-li)** · **[Jiajun Wu¹](https://jiajunwu.com/)** · **[Yejin Choi¹](https://homes.cs.washington.edu/~yejin/)**
+**[Yining Hong¹](https://evelinehong.github.io/)** · **[Huang Huang](https://qingh097.github.io/)¹** · **[Manling Li²](https://limanling.github.io/)** · **[Li Fei-Fei¹](https://profiles.stanford.edu/fei-fei-li)** · **[Leonidas Guibas¹](https://profiles.stanford.edu/leonidas-guibas)** · **[Jiajun Wu¹](https://jiajunwu.com/)** · **[Yejin Choi¹](https://homes.cs.washington.edu/~yejin/)**
 
 ¹Stanford University · ²Northwestern University
 
@@ -181,7 +181,7 @@ If you find this work useful, please cite:
 ```bibtex
 @article{hong2026reflective,
   title={Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs},
-  author={Hong, Yining and Huang, Huang and Li, Manling and Fei-Fei, Li and Wu, Jiajun and Choi, Yejin},
+  author={Hong, Yining and Huang, Huang and Li, Manling and Fei-Fei, Li and Guibas, Leonidas and Wu, Jiajun and Choi, Yejin},
   journal={arXiv preprint arXiv:2602.21198},
   year={2026}
 }
